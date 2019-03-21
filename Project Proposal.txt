@@ -1,8 +1,0 @@
-US Veteran Suicide Exploration
-
-We will be examining suicide data from the U.S. Department of Veterans Affairs.
-
-Hypothesis: The veteran suicide rate is higher than the overall population rate.
-Null Hypothesis: The overall population suicide rate is lower than the veteran sucide rate.
-
-We will compare suicide rates on the national and state level. 
