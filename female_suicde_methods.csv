@@ -1,0 +1,662 @@
+Cause of Death,Deaths,Percent,State,Year,Sex,Age Group
+Poisoning,2601,40.12650417,United States,2005,Females,Ages 18-85+
+Firearm,2030,31.3174946,United States,2005,Females,Ages 18-85+
+Suffocation,1212,18.69793274,United States,2005,Females,Ages 18-85+
+Fall,182,2.807775378,United States,2005,Females,Ages 18-85+
+Drowning,117,1.804998457,United States,2005,Females,Ages 18-85+
+Cut/pierce,103,1.589015736,United States,2005,Females,Ages 18-85+
+"Other Spec., NEC",64,0.987349583,United States,2005,Females,Ages 18-85+
+"Other Spec., classifiable",59,0.910212897,United States,2005,Females,Ages 18-85+
+Fire/burn,52,0.802221537,United States,2005,Females,Ages 18-85+
+Unspecified,34,0.524529466,United States,2005,Females,Ages 18-85+
+Transportation- Related,28,0.431965443,United States,2005,Females,Ages 18-85+
+Poisoning,349,41.01057579,Northeast,2005,Females,Ages 18-85+
+Suffocation,223,26.20446533,Northeast,2005,Females,Ages 18-85+
+Firearm,146,17.15628672,Northeast,2005,Females,Ages 18-85+
+Fall,52,6.110458284,Northeast,2005,Females,Ages 18-85+
+Drowning,20,2.350176263,Northeast,2005,Females,Ages 18-85+
+Cut/pierce,18,2.115158637,Northeast,2005,Females,Ages 18-85+
+"Other Spec., classifiable",15,1.762632197,Northeast,2005,Females,Ages 18-85+
+Fire/burn,10,1.175088132,Northeast,2005,Females,Ages 18-85+
+"Other Spec., NEC",10,1.175088132,Northeast,2005,Females,Ages 18-85+
+Unspecified,6,0.705052879,Northeast,2005,Females,Ages 18-85+
+Transportation- Related,2,0.235017626,Northeast,2005,Females,Ages 18-85+
+Firearm,1082,41.56742221,South,2005,Females,Ages 18-85+
+Poisoning,931,35.76642336,South,2005,Females,Ages 18-85+
+Suffocation,391,15.02112947,South,2005,Females,Ages 18-85+
+Fall,54,2.074529389,South,2005,Females,Ages 18-85+
+Drowning,40,1.536688436,South,2005,Females,Ages 18-85+
+Cut/pierce,33,1.26776796,South,2005,Females,Ages 18-85+
+Fire/burn,21,0.806761429,South,2005,Females,Ages 18-85+
+"Other Spec., NEC",17,0.653092585,South,2005,Females,Ages 18-85+
+"Other Spec., classifiable",16,0.614675375,South,2005,Females,Ages 18-85+
+Unspecified,11,0.42258932,South,2005,Females,Ages 18-85+
+Transportation- Related,7,0.268920476,South,2005,Females,Ages 18-85+
+Poisoning,613,46.36913767,Midwest,2005,Females,Ages 18-85+
+Firearm,352,26.62632375,Midwest,2005,Females,Ages 18-85+
+Suffocation,245,18.53252648,Midwest,2005,Females,Ages 18-85+
+Drowning,22,1.664145234,Midwest,2005,Females,Ages 18-85+
+Fall,22,1.664145234,Midwest,2005,Females,Ages 18-85+
+Cut/pierce,18,1.361573374,Midwest,2005,Females,Ages 18-85+
+"Other Spec., NEC",15,1.134644478,Midwest,2005,Females,Ages 18-85+
+"Other Spec., classifiable",11,0.832072617,Midwest,2005,Females,Ages 18-85+
+Fire/burn,10,0.756429652,Midwest,2005,Females,Ages 18-85+
+Transportation- Related,8,0.605143722,Midwest,2005,Females,Ages 18-85+
+Unspecified,6,0.453857791,Midwest,2005,Females,Ages 18-85+
+Poisoning,708,41.50058617,West,2005,Females,Ages 18-85+
+Firearm,450,26.37749121,West,2005,Females,Ages 18-85+
+Suffocation,353,20.69167644,West,2005,Females,Ages 18-85+
+Fall,54,3.165298945,West,2005,Females,Ages 18-85+
+Drowning,35,2.051582649,West,2005,Females,Ages 18-85+
+Cut/pierce,34,1.992966002,West,2005,Females,Ages 18-85+
+"Other Spec., NEC",22,1.289566237,West,2005,Females,Ages 18-85+
+"Other Spec., classifiable",17,0.996483001,West,2005,Females,Ages 18-85+
+Fire/burn,11,0.644783118,West,2005,Females,Ages 18-85+
+Transportation- Related,11,0.644783118,West,2005,Females,Ages 18-85+
+Unspecified,11,0.644783118,West,2005,Females,Ages 18-85+
+Poisoning,2791,41.32366005,United States,2006,Females,Ages 18-85+
+Firearm,2096,31.03346165,United States,2006,Females,Ages 18-85+
+Suffocation,1173,17.36748593,United States,2006,Females,Ages 18-85+
+Fall,186,2.753923601,United States,2006,Females,Ages 18-85+
+Drowning,148,2.191294048,United States,2006,Females,Ages 18-85+
+Cut/pierce,91,1.347349719,United States,2006,Females,Ages 18-85+
+"Other Spec., classifiable",86,1.273319514,United States,2006,Females,Ages 18-85+
+"Other Spec., NEC",65,0.962392656,United States,2006,Females,Ages 18-85+
+Fire/burn,53,0.784720166,United States,2006,Females,Ages 18-85+
+Transportation- Related,33,0.488599349,United States,2006,Females,Ages 18-85+
+Unspecified,32,0.473793308,United States,2006,Females,Ages 18-85+
+Poisoning,371,42.15909091,Northeast,2006,Females,Ages 18-85+
+Suffocation,226,25.68181818,Northeast,2006,Females,Ages 18-85+
+Firearm,138,15.68181818,Northeast,2006,Females,Ages 18-85+
+Fall,56,6.363636364,Northeast,2006,Females,Ages 18-85+
+Drowning,27,3.068181818,Northeast,2006,Females,Ages 18-85+
+Cut/pierce,20,2.272727273,Northeast,2006,Females,Ages 18-85+
+"Other Spec., classifiable",15,1.704545455,Northeast,2006,Females,Ages 18-85+
+"Other Spec., NEC",10,1.136363636,Northeast,2006,Females,Ages 18-85+
+Fire/burn,8,0.909090909,Northeast,2006,Females,Ages 18-85+
+Transportation- Related,6,0.681818182,Northeast,2006,Females,Ages 18-85+
+Unspecified,3,0.340909091,Northeast,2006,Females,Ages 18-85+
+Firearm,1123,41.88735546,South,2006,Females,Ages 18-85+
+Poisoning,971,36.21782917,South,2006,Females,Ages 18-85+
+Suffocation,370,13.80082059,South,2006,Females,Ages 18-85+
+Drowning,54,2.014173816,South,2006,Females,Ages 18-85+
+Fall,46,1.715777695,South,2006,Females,Ages 18-85+
+Cut/pierce,28,1.044386423,South,2006,Females,Ages 18-85+
+"Other Spec., classifiable",25,0.932487878,South,2006,Females,Ages 18-85+
+"Other Spec., NEC",23,0.857888847,South,2006,Females,Ages 18-85+
+Fire/burn,19,0.708690787,South,2006,Females,Ages 18-85+
+Unspecified,14,0.522193211,South,2006,Females,Ages 18-85+
+Transportation- Related,8,0.298396121,South,2006,Females,Ages 18-85+
+Poisoning,641,45.49325763,Midwest,2006,Females,Ages 18-85+
+Firearm,364,25.83392477,Midwest,2006,Females,Ages 18-85+
+Suffocation,259,18.38183109,Midwest,2006,Females,Ages 18-85+
+Fall,31,2.200141945,Midwest,2006,Females,Ages 18-85+
+Drowning,28,1.987224982,Midwest,2006,Females,Ages 18-85+
+"Other Spec., classifiable",25,1.77430802,Midwest,2006,Females,Ages 18-85+
+Cut/pierce,18,1.277501774,Midwest,2006,Females,Ages 18-85+
+"Other Spec., NEC",15,1.064584812,Midwest,2006,Females,Ages 18-85+
+Fire/burn,13,0.92264017,Midwest,2006,Females,Ages 18-85+
+Transportation- Related,9,0.638750887,Midwest,2006,Females,Ages 18-85+
+Unspecified,6,0.425833925,Midwest,2006,Females,Ages 18-85+
+Poisoning,808,45.29147982,West,2006,Females,Ages 18-85+
+Firearm,471,26.40134529,West,2006,Females,Ages 18-85+
+Suffocation,318,17.82511211,West,2006,Females,Ages 18-85+
+Fall,53,2.970852018,West,2006,Females,Ages 18-85+
+Drowning,39,2.186098655,West,2006,Females,Ages 18-85+
+Cut/pierce,25,1.401345291,West,2006,Females,Ages 18-85+
+"Other Spec., classifiable",21,1.177130045,West,2006,Females,Ages 18-85+
+"Other Spec., NEC",17,0.952914798,West,2006,Females,Ages 18-85+
+Fire/burn,13,0.728699552,West,2006,Females,Ages 18-85+
+Transportation- Related,10,0.560538117,West,2006,Females,Ages 18-85+
+Unspecified,9,0.504484305,West,2006,Females,Ages 18-85+
+Poisoning,2922,40.93010226,United States,2007,Females,Ages 18-85+
+Firearm,2130,29.8361115,United States,2007,Females,Ages 18-85+
+Suffocation,1396,19.55455946,United States,2007,Females,Ages 18-85+
+Fall,186,2.60540692,United States,2007,Females,Ages 18-85+
+Cut/pierce,126,1.764953075,United States,2007,Females,Ages 18-85+
+Drowning,119,1.666900126,United States,2007,Females,Ages 18-85+
+"Other Spec., classifiable",75,1.050567306,United States,2007,Females,Ages 18-85+
+"Other Spec., NEC",62,0.868468973,United States,2007,Females,Ages 18-85+
+Fire/burn,55,0.770416025,United States,2007,Females,Ages 18-85+
+Unspecified,34,0.476257179,United States,2007,Females,Ages 18-85+
+Transportation- Related,33,0.462249615,United States,2007,Females,Ages 18-85+
+Struck by or Against,1,0.014007564,United States,2007,Females,Ages 18-85+
+Poisoning,424,43.98340249,Northeast,2007,Females,Ages 18-85+
+Suffocation,259,26.86721992,Northeast,2007,Females,Ages 18-85+
+Firearm,126,13.07053942,Northeast,2007,Females,Ages 18-85+
+Fall,56,5.809128631,Northeast,2007,Females,Ages 18-85+
+"Other Spec., classifiable",27,2.800829876,Northeast,2007,Females,Ages 18-85+
+Drowning,23,2.385892116,Northeast,2007,Females,Ages 18-85+
+Cut/pierce,22,2.282157676,Northeast,2007,Females,Ages 18-85+
+"Other Spec., NEC",14,1.452282158,Northeast,2007,Females,Ages 18-85+
+Fire/burn,6,0.622406639,Northeast,2007,Females,Ages 18-85+
+Unspecified,6,0.622406639,Northeast,2007,Females,Ages 18-85+
+Transportation- Related,1,0.10373444,Northeast,2007,Females,Ages 18-85+
+Firearm,1166,40.84063047,South,2007,Females,Ages 18-85+
+Poisoning,1036,36.28721541,South,2007,Females,Ages 18-85+
+Suffocation,448,15.69176883,South,2007,Females,Ages 18-85+
+Drowning,46,1.611208406,South,2007,Females,Ages 18-85+
+Cut/pierce,43,1.506129597,South,2007,Females,Ages 18-85+
+Fall,39,1.366024518,South,2007,Females,Ages 18-85+
+Fire/burn,25,0.875656743,South,2007,Females,Ages 18-85+
+"Other Spec., NEC",20,0.700525394,South,2007,Females,Ages 18-85+
+"Other Spec., classifiable",17,0.595446585,South,2007,Females,Ages 18-85+
+Unspecified,11,0.385288967,South,2007,Females,Ages 18-85+
+Transportation- Related,4,0.140105079,South,2007,Females,Ages 18-85+
+Poisoning,604,42.53521127,Midwest,2007,Females,Ages 18-85+
+Firearm,354,24.92957746,Midwest,2007,Females,Ages 18-85+
+Suffocation,316,22.25352113,Midwest,2007,Females,Ages 18-85+
+Fall,32,2.253521127,Midwest,2007,Females,Ages 18-85+
+Cut/pierce,27,1.901408451,Midwest,2007,Females,Ages 18-85+
+Drowning,24,1.690140845,Midwest,2007,Females,Ages 18-85+
+Transportation- Related,16,1.126760563,Midwest,2007,Females,Ages 18-85+
+"Other Spec., classifiable",14,0.985915493,Midwest,2007,Females,Ages 18-85+
+Fire/burn,13,0.915492958,Midwest,2007,Females,Ages 18-85+
+Unspecified,11,0.774647887,Midwest,2007,Females,Ages 18-85+
+"Other Spec., NEC",9,0.633802817,Midwest,2007,Females,Ages 18-85+
+Poisoning,858,45.15789474,West,2007,Females,Ages 18-85+
+Firearm,484,25.47368421,West,2007,Females,Ages 18-85+
+Suffocation,373,19.63157895,West,2007,Females,Ages 18-85+
+Fall,59,3.105263158,West,2007,Females,Ages 18-85+
+Cut/pierce,34,1.789473684,West,2007,Females,Ages 18-85+
+Drowning,26,1.368421053,West,2007,Females,Ages 18-85+
+"Other Spec., NEC",19,1,West,2007,Females,Ages 18-85+
+"Other Spec., classifiable",17,0.894736842,West,2007,Females,Ages 18-85+
+Transportation- Related,12,0.631578947,West,2007,Females,Ages 18-85+
+Fire/burn,11,0.578947368,West,2007,Females,Ages 18-85+
+Unspecified,6,0.315789474,West,2007,Females,Ages 18-85+
+Struck by or Against,1,0.052631579,West,2007,Females,Ages 18-85+
+Poisoning,2947,40.26506353,United States,2008,Females,Ages 18-85+
+Firearm,2248,30.71457849,United States,2008,Females,Ages 18-85+
+Suffocation,1419,19.38789452,United States,2008,Females,Ages 18-85+
+Fall,176,2.404700096,United States,2008,Females,Ages 18-85+
+Drowning,162,2.213417133,United States,2008,Females,Ages 18-85+
+Cut/pierce,114,1.557589835,United States,2008,Females,Ages 18-85+
+"Other Spec., classifiable",66,0.901762536,United States,2008,Females,Ages 18-85+
+Fire/burn,59,0.806121055,United States,2008,Females,Ages 18-85+
+"Other Spec., NEC",58,0.792457986,United States,2008,Females,Ages 18-85+
+Unspecified,40,0.546522749,United States,2008,Females,Ages 18-85+
+Transportation- Related,30,0.409892062,United States,2008,Females,Ages 18-85+
+Poisoning,400,40.4040404,Northeast,2008,Females,Ages 18-85+
+Suffocation,297,30,Northeast,2008,Females,Ages 18-85+
+Firearm,156,15.75757576,Northeast,2008,Females,Ages 18-85+
+Fall,48,4.848484848,Northeast,2008,Females,Ages 18-85+
+Drowning,26,2.626262626,Northeast,2008,Females,Ages 18-85+
+Cut/pierce,21,2.121212121,Northeast,2008,Females,Ages 18-85+
+"Other Spec., classifiable",16,1.616161616,Northeast,2008,Females,Ages 18-85+
+Fire/burn,12,1.212121212,Northeast,2008,Females,Ages 18-85+
+Unspecified,7,0.707070707,Northeast,2008,Females,Ages 18-85+
+"Other Spec., NEC",6,0.606060606,Northeast,2008,Females,Ages 18-85+
+Transportation- Related,1,0.101010101,Northeast,2008,Females,Ages 18-85+
+Firearm,1215,42.07063712,South,2008,Females,Ages 18-85+
+Poisoning,1025,35.49168975,South,2008,Females,Ages 18-85+
+Suffocation,416,14.40443213,South,2008,Females,Ages 18-85+
+Drowning,72,2.493074792,South,2008,Females,Ages 18-85+
+Fall,45,1.558171745,South,2008,Females,Ages 18-85+
+Cut/pierce,34,1.177285319,South,2008,Females,Ages 18-85+
+Fire/burn,24,0.831024931,South,2008,Females,Ages 18-85+
+"Other Spec., NEC",24,0.831024931,South,2008,Females,Ages 18-85+
+Unspecified,15,0.519390582,South,2008,Females,Ages 18-85+
+"Other Spec., classifiable",13,0.450138504,South,2008,Females,Ages 18-85+
+Transportation- Related,5,0.173130194,South,2008,Females,Ages 18-85+
+Poisoning,638,44.24410541,Midwest,2008,Females,Ages 18-85+
+Firearm,367,25.45076283,Midwest,2008,Females,Ages 18-85+
+Suffocation,302,20.94313454,Midwest,2008,Females,Ages 18-85+
+Drowning,29,2.0110957,Midwest,2008,Females,Ages 18-85+
+Cut/pierce,28,1.941747573,Midwest,2008,Females,Ages 18-85+
+Fall,23,1.595006935,Midwest,2008,Females,Ages 18-85+
+"Other Spec., classifiable",15,1.040221914,Midwest,2008,Females,Ages 18-85+
+Fire/burn,14,0.970873786,Midwest,2008,Females,Ages 18-85+
+"Other Spec., NEC",10,0.693481276,Midwest,2008,Females,Ages 18-85+
+Transportation- Related,9,0.624133148,Midwest,2008,Females,Ages 18-85+
+Unspecified,7,0.485436893,Midwest,2008,Females,Ages 18-85+
+Poisoning,884,44.22211106,West,2008,Females,Ages 18-85+
+Firearm,510,25.51275638,West,2008,Females,Ages 18-85+
+Suffocation,404,20.21010505,West,2008,Females,Ages 18-85+
+Fall,60,3.00150075,West,2008,Females,Ages 18-85+
+Drowning,35,1.750875438,West,2008,Females,Ages 18-85+
+Cut/pierce,31,1.550775388,West,2008,Females,Ages 18-85+
+"Other Spec., classifiable",22,1.100550275,West,2008,Females,Ages 18-85+
+"Other Spec., NEC",18,0.900450225,West,2008,Females,Ages 18-85+
+Transportation- Related,15,0.750375188,West,2008,Females,Ages 18-85+
+Unspecified,11,0.550275138,West,2008,Females,Ages 18-85+
+Fire/burn,9,0.450225113,West,2008,Females,Ages 18-85+
+Poisoning,2940,39.03864029,United States,2009,Females,Ages 18-85+
+Firearm,2370,31.46992431,United States,2009,Females,Ages 18-85+
+Suffocation,1507,20.01062276,United States,2009,Females,Ages 18-85+
+Fall,191,2.536183774,United States,2009,Females,Ages 18-85+
+Drowning,141,1.87226132,United States,2009,Females,Ages 18-85+
+Cut/pierce,116,1.540300093,United States,2009,Females,Ages 18-85+
+"Other Spec., classifiable",94,1.248174213,United States,2009,Females,Ages 18-85+
+"Other Spec., NEC",68,0.902934537,United States,2009,Females,Ages 18-85+
+Fire/burn,52,0.690479352,United States,2009,Females,Ages 18-85+
+Unspecified,37,0.491302616,United States,2009,Females,Ages 18-85+
+Transportation- Related,15,0.199176736,United States,2009,Females,Ages 18-85+
+Poisoning,390,40.04106776,Northeast,2009,Females,Ages 18-85+
+Suffocation,258,26.48870637,Northeast,2009,Females,Ages 18-85+
+Firearm,186,19.09650924,Northeast,2009,Females,Ages 18-85+
+Fall,45,4.620123203,Northeast,2009,Females,Ages 18-85+
+Drowning,32,3.285420945,Northeast,2009,Females,Ages 18-85+
+"Other Spec., classifiable",27,2.772073922,Northeast,2009,Females,Ages 18-85+
+Cut/pierce,20,2.05338809,Northeast,2009,Females,Ages 18-85+
+"Other Spec., NEC",7,0.718685832,Northeast,2009,Females,Ages 18-85+
+Unspecified,4,0.410677618,Northeast,2009,Females,Ages 18-85+
+Fire/burn,3,0.308008214,Northeast,2009,Females,Ages 18-85+
+Transportation- Related,2,0.205338809,Northeast,2009,Females,Ages 18-85+
+Firearm,1228,42.15585307,South,2009,Females,Ages 18-85+
+Poisoning,1007,34.56917267,South,2009,Females,Ages 18-85+
+Suffocation,465,15.96292482,South,2009,Females,Ages 18-85+
+Fall,50,1.716443529,South,2009,Females,Ages 18-85+
+Drowning,48,1.647785788,South,2009,Females,Ages 18-85+
+Cut/pierce,33,1.132852729,South,2009,Females,Ages 18-85+
+Fire/burn,23,0.789564023,South,2009,Females,Ages 18-85+
+"Other Spec., classifiable",22,0.755235153,South,2009,Females,Ages 18-85+
+"Other Spec., NEC",21,0.720906282,South,2009,Females,Ages 18-85+
+Unspecified,11,0.377617576,South,2009,Females,Ages 18-85+
+Transportation- Related,5,0.171644353,South,2009,Females,Ages 18-85+
+Poisoning,661,44.9048913,Midwest,2009,Females,Ages 18-85+
+Firearm,374,25.4076087,Midwest,2009,Females,Ages 18-85+
+Suffocation,306,20.78804348,Midwest,2009,Females,Ages 18-85+
+Fall,33,2.241847826,Midwest,2009,Females,Ages 18-85+
+Cut/pierce,23,1.5625,Midwest,2009,Females,Ages 18-85+
+Drowning,23,1.5625,Midwest,2009,Females,Ages 18-85+
+"Other Spec., classifiable",17,1.154891304,Midwest,2009,Females,Ages 18-85+
+Fire/burn,14,0.951086957,Midwest,2009,Females,Ages 18-85+
+"Other Spec., NEC",12,0.815217391,Midwest,2009,Females,Ages 18-85+
+Unspecified,6,0.407608696,Midwest,2009,Females,Ages 18-85+
+Transportation- Related,3,0.203804348,Midwest,2009,Females,Ages 18-85+
+Poisoning,882,40.60773481,West,2009,Females,Ages 18-85+
+Firearm,582,26.79558011,West,2009,Females,Ages 18-85+
+Suffocation,478,22.00736648,West,2009,Females,Ages 18-85+
+Fall,63,2.900552486,West,2009,Females,Ages 18-85+
+Cut/pierce,40,1.841620626,West,2009,Females,Ages 18-85+
+Drowning,38,1.749539595,West,2009,Females,Ages 18-85+
+"Other Spec., classifiable",28,1.289134438,West,2009,Females,Ages 18-85+
+"Other Spec., NEC",28,1.289134438,West,2009,Females,Ages 18-85+
+Unspecified,16,0.73664825,West,2009,Females,Ages 18-85+
+Fire/burn,12,0.552486188,West,2009,Females,Ages 18-85+
+Transportation- Related,5,0.230202578,West,2009,Females,Ages 18-85+
+Poisoning,2999,38.34057786,United States,2010,Females,Ages 18-85+
+Firearm,2375,30.3630785,United States,2010,Females,Ages 18-85+
+Suffocation,1730,22.1171056,United States,2010,Females,Ages 18-85+
+Fall,200,2.556890821,United States,2010,Females,Ages 18-85+
+Drowning,154,1.968805932,United States,2010,Females,Ages 18-85+
+Cut/pierce,110,1.406289951,United States,2010,Females,Ages 18-85+
+"Other Spec., classifiable",88,1.125031961,United States,2010,Females,Ages 18-85+
+"Other Spec., NEC",63,0.805420609,United States,2010,Females,Ages 18-85+
+Unspecified,38,0.485809256,United States,2010,Females,Ages 18-85+
+Fire/burn,35,0.447455894,United States,2010,Females,Ages 18-85+
+Transportation- Related,30,0.383533623,United States,2010,Females,Ages 18-85+
+Poisoning,426,39.92502343,Northeast,2010,Females,Ages 18-85+
+Suffocation,320,29.99062793,Northeast,2010,Females,Ages 18-85+
+Firearm,168,15.74507966,Northeast,2010,Females,Ages 18-85+
+Fall,54,5.060918463,Northeast,2010,Females,Ages 18-85+
+Drowning,38,3.561387067,Northeast,2010,Females,Ages 18-85+
+Cut/pierce,24,2.249297095,Northeast,2010,Females,Ages 18-85+
+"Other Spec., classifiable",20,1.874414246,Northeast,2010,Females,Ages 18-85+
+"Other Spec., NEC",6,0.562324274,Northeast,2010,Females,Ages 18-85+
+Unspecified,5,0.468603561,Northeast,2010,Females,Ages 18-85+
+Fire/burn,3,0.281162137,Northeast,2010,Females,Ages 18-85+
+Transportation- Related,3,0.281162137,Northeast,2010,Females,Ages 18-85+
+Firearm,1217,40.67513369,South,2010,Females,Ages 18-85+
+Poisoning,1037,34.65909091,South,2010,Females,Ages 18-85+
+Suffocation,497,16.61096257,South,2010,Females,Ages 18-85+
+Fall,57,1.905080214,South,2010,Females,Ages 18-85+
+Drowning,55,1.838235294,South,2010,Females,Ages 18-85+
+Cut/pierce,30,1.002673797,South,2010,Females,Ages 18-85+
+"Other Spec., NEC",26,0.868983957,South,2010,Females,Ages 18-85+
+"Other Spec., classifiable",25,0.835561497,South,2010,Females,Ages 18-85+
+Unspecified,20,0.668449198,South,2010,Females,Ages 18-85+
+Fire/burn,16,0.534759358,South,2010,Females,Ages 18-85+
+Transportation- Related,12,0.401069519,South,2010,Females,Ages 18-85+
+Poisoning,670,41.20541205,Midwest,2010,Females,Ages 18-85+
+Suffocation,416,25.58425584,Midwest,2010,Females,Ages 18-85+
+Firearm,407,25.03075031,Midwest,2010,Females,Ages 18-85+
+Fall,33,2.029520295,Midwest,2010,Females,Ages 18-85+
+"Other Spec., classifiable",27,1.660516605,Midwest,2010,Females,Ages 18-85+
+Cut/pierce,25,1.537515375,Midwest,2010,Females,Ages 18-85+
+Drowning,24,1.47601476,Midwest,2010,Females,Ages 18-85+
+"Other Spec., NEC",9,0.553505535,Midwest,2010,Females,Ages 18-85+
+Transportation- Related,7,0.430504305,Midwest,2010,Females,Ages 18-85+
+Fire/burn,5,0.307503075,Midwest,2010,Females,Ages 18-85+
+Unspecified,3,0.184501845,Midwest,2010,Females,Ages 18-85+
+Poisoning,866,40.5240992,West,2010,Females,Ages 18-85+
+Firearm,583,27.28123538,West,2010,Females,Ages 18-85+
+Suffocation,497,23.2569022,West,2010,Females,Ages 18-85+
+Fall,56,2.620496022,West,2010,Females,Ages 18-85+
+Drowning,37,1.731399158,West,2010,Females,Ages 18-85+
+Cut/pierce,31,1.450631727,West,2010,Females,Ages 18-85+
+"Other Spec., NEC",22,1.02948058,West,2010,Females,Ages 18-85+
+"Other Spec., classifiable",16,0.748713149,West,2010,Females,Ages 18-85+
+Fire/burn,11,0.51474029,West,2010,Females,Ages 18-85+
+Unspecified,10,0.467945718,West,2010,Females,Ages 18-85+
+Transportation- Related,8,0.374356575,West,2010,Females,Ages 18-85+
+Poisoning,3083,37.53804943,United States,2011,Females,Ages 18-85+
+Firearm,2605,31.71800804,United States,2011,Females,Ages 18-85+
+Suffocation,1793,21.83124315,United States,2011,Females,Ages 18-85+
+Fall,204,2.48386704,United States,2011,Females,Ages 18-85+
+Drowning,118,1.436746621,United States,2011,Females,Ages 18-85+
+Cut/pierce,107,1.302812614,United States,2011,Females,Ages 18-85+
+"Other Spec., classifiable",101,1.229757701,United States,2011,Females,Ages 18-85+
+Unspecified,83,1.010592962,United States,2011,Females,Ages 18-85+
+"Other Spec., NEC",50,0.608790941,United States,2011,Females,Ages 18-85+
+Fire/burn,42,0.511384391,United States,2011,Females,Ages 18-85+
+Transportation- Related,27,0.328747108,United States,2011,Females,Ages 18-85+
+Poisoning,448,39.40193492,Northeast,2011,Females,Ages 18-85+
+Suffocation,342,30.07915567,Northeast,2011,Females,Ages 18-85+
+Firearm,184,16.18293755,Northeast,2011,Females,Ages 18-85+
+Fall,45,3.957783641,Northeast,2011,Females,Ages 18-85+
+Drowning,33,2.90237467,Northeast,2011,Females,Ages 18-85+
+Cut/pierce,31,2.726473175,Northeast,2011,Females,Ages 18-85+
+Unspecified,23,2.022867194,Northeast,2011,Females,Ages 18-85+
+"Other Spec., classifiable",18,1.583113456,Northeast,2011,Females,Ages 18-85+
+"Other Spec., NEC",8,0.703605981,Northeast,2011,Females,Ages 18-85+
+Transportation- Related,3,0.263852243,Northeast,2011,Females,Ages 18-85+
+Fire/burn,2,0.175901495,Northeast,2011,Females,Ages 18-85+
+Firearm,1392,44.27480916,South,2011,Females,Ages 18-85+
+Poisoning,1006,31.99745547,South,2011,Females,Ages 18-85+
+Suffocation,534,16.98473282,South,2011,Females,Ages 18-85+
+Fall,57,1.812977099,South,2011,Females,Ages 18-85+
+Drowning,37,1.176844784,South,2011,Females,Ages 18-85+
+Unspecified,29,0.922391858,South,2011,Females,Ages 18-85+
+Cut/pierce,27,0.858778626,South,2011,Females,Ages 18-85+
+"Other Spec., classifiable",22,0.699745547,South,2011,Females,Ages 18-85+
+Fire/burn,19,0.6043257,South,2011,Females,Ages 18-85+
+"Other Spec., NEC",17,0.540712468,South,2011,Females,Ages 18-85+
+Transportation- Related,4,0.127226463,South,2011,Females,Ages 18-85+
+Poisoning,652,39.53911461,Midwest,2011,Females,Ages 18-85+
+Firearm,432,26.19769557,Midwest,2011,Females,Ages 18-85+
+Suffocation,422,25.59126743,Midwest,2011,Females,Ages 18-85+
+"Other Spec., classifiable",32,1.940570042,Midwest,2011,Females,Ages 18-85+
+Drowning,23,1.394784718,Midwest,2011,Females,Ages 18-85+
+Fall,23,1.394784718,Midwest,2011,Females,Ages 18-85+
+Cut/pierce,20,1.212856277,Midwest,2011,Females,Ages 18-85+
+"Other Spec., NEC",16,0.970285021,Midwest,2011,Females,Ages 18-85+
+Unspecified,14,0.848999394,Midwest,2011,Females,Ages 18-85+
+Fire/burn,10,0.606428138,Midwest,2011,Females,Ages 18-85+
+Transportation- Related,5,0.303214069,Midwest,2011,Females,Ages 18-85+
+Poisoning,977,42.79456855,West,2011,Females,Ages 18-85+
+Firearm,597,26.14980289,West,2011,Females,Ages 18-85+
+Suffocation,495,21.68199737,West,2011,Females,Ages 18-85+
+Fall,79,3.460359177,West,2011,Females,Ages 18-85+
+Cut/pierce,29,1.270258432,West,2011,Females,Ages 18-85+
+"Other Spec., classifiable",29,1.270258432,West,2011,Females,Ages 18-85+
+Drowning,25,1.095050372,West,2011,Females,Ages 18-85+
+Unspecified,17,0.744634253,West,2011,Females,Ages 18-85+
+Transportation- Related,15,0.657030223,West,2011,Females,Ages 18-85+
+Fire/burn,11,0.481822164,West,2011,Females,Ages 18-85+
+"Other Spec., NEC",9,0.394218134,West,2011,Females,Ages 18-85+
+Poisoning,3169,37.32187022,United States,2012,Females,Ages 18-85+
+Firearm,2687,31.64527146,United States,2012,Females,Ages 18-85+
+Suffocation,1860,21.90554705,United States,2012,Females,Ages 18-85+
+Fall,249,2.932516782,United States,2012,Females,Ages 18-85+
+Drowning,157,1.849016606,United States,2012,Females,Ages 18-85+
+Cut/pierce,134,1.578141562,United States,2012,Females,Ages 18-85+
+"Other Spec., classifiable",103,1.213049111,United States,2012,Females,Ages 18-85+
+Fire/burn,54,0.635967495,United States,2012,Females,Ages 18-85+
+Transportation- Related,39,0.459309857,United States,2012,Females,Ages 18-85+
+"Other Spec., NEC",30,0.353315275,United States,2012,Females,Ages 18-85+
+Unspecified,9,0.105994582,United States,2012,Females,Ages 18-85+
+Poisoning,470,39.33054393,Northeast,2012,Females,Ages 18-85+
+Suffocation,349,29.20502092,Northeast,2012,Females,Ages 18-85+
+Firearm,190,15.89958159,Northeast,2012,Females,Ages 18-85+
+Fall,79,6.610878661,Northeast,2012,Females,Ages 18-85+
+Drowning,35,2.928870293,Northeast,2012,Females,Ages 18-85+
+Cut/pierce,27,2.259414226,Northeast,2012,Females,Ages 18-85+
+"Other Spec., classifiable",22,1.841004184,Northeast,2012,Females,Ages 18-85+
+Fire/burn,12,1.0041841,Northeast,2012,Females,Ages 18-85+
+"Other Spec., NEC",5,0.418410042,Northeast,2012,Females,Ages 18-85+
+Unspecified,4,0.334728033,Northeast,2012,Females,Ages 18-85+
+Transportation- Related,2,0.167364017,Northeast,2012,Females,Ages 18-85+
+Firearm,1434,42.10217264,South,2012,Females,Ages 18-85+
+Poisoning,1153,33.85202584,South,2012,Females,Ages 18-85+
+Suffocation,580,17.02877275,South,2012,Females,Ages 18-85+
+Drowning,69,2.025836759,South,2012,Females,Ages 18-85+
+Fall,51,1.497357604,South,2012,Females,Ages 18-85+
+Cut/pierce,43,1.26247798,South,2012,Females,Ages 18-85+
+Fire/burn,23,0.67527892,South,2012,Females,Ages 18-85+
+"Other Spec., classifiable",23,0.67527892,South,2012,Females,Ages 18-85+
+Transportation- Related,14,0.411039342,South,2012,Females,Ages 18-85+
+"Other Spec., NEC",13,0.381679389,South,2012,Females,Ages 18-85+
+Unspecified,3,0.088079859,South,2012,Females,Ages 18-85+
+Poisoning,632,38.11821472,Midwest,2012,Females,Ages 18-85+
+Firearm,465,28.04583836,Midwest,2012,Females,Ages 18-85+
+Suffocation,420,25.33172497,Midwest,2012,Females,Ages 18-85+
+Fall,38,2.291917973,Midwest,2012,Females,Ages 18-85+
+"Other Spec., classifiable",32,1.930036188,Midwest,2012,Females,Ages 18-85+
+Cut/pierce,23,1.38721351,Midwest,2012,Females,Ages 18-85+
+Drowning,20,1.206272618,Midwest,2012,Females,Ages 18-85+
+Fire/burn,12,0.723763571,Midwest,2012,Females,Ages 18-85+
+Transportation- Related,9,0.542822678,Midwest,2012,Females,Ages 18-85+
+"Other Spec., NEC",6,0.361881785,Midwest,2012,Females,Ages 18-85+
+Unspecified,1,0.060313631,Midwest,2012,Females,Ages 18-85+
+Poisoning,914,40.94982079,West,2012,Females,Ages 18-85+
+Firearm,598,26.7921147,West,2012,Females,Ages 18-85+
+Suffocation,511,22.89426523,West,2012,Females,Ages 18-85+
+Fall,81,3.629032258,West,2012,Females,Ages 18-85+
+Cut/pierce,41,1.836917563,West,2012,Females,Ages 18-85+
+Drowning,33,1.478494624,West,2012,Females,Ages 18-85+
+"Other Spec., classifiable",26,1.164874552,West,2012,Females,Ages 18-85+
+Transportation- Related,14,0.627240143,West,2012,Females,Ages 18-85+
+Fire/burn,7,0.313620072,West,2012,Females,Ages 18-85+
+"Other Spec., NEC",6,0.268817204,West,2012,Females,Ages 18-85+
+Unspecified,1,0.044802867,West,2012,Females,Ages 18-85+
+Poisoning,3136,35.94681339,United States,2013,Females,Ages 18-85+
+Firearm,2869,32.88629069,United States,2013,Females,Ages 18-85+
+Suffocation,1898,21.75607519,United States,2013,Females,Ages 18-85+
+Fall,258,2.95735901,United States,2013,Females,Ages 18-85+
+Cut/pierce,166,1.902796882,United States,2013,Females,Ages 18-85+
+Drowning,131,1.501604768,United States,2013,Females,Ages 18-85+
+"Other Spec., classifiable",112,1.283814764,United States,2013,Females,Ages 18-85+
+Fire/burn,49,0.561668959,United States,2013,Females,Ages 18-85+
+"Other Spec., NEC",47,0.538743696,United States,2013,Females,Ages 18-85+
+Transportation- Related,44,0.5043558,United States,2013,Females,Ages 18-85+
+Unspecified,14,0.160476845,United States,2013,Females,Ages 18-85+
+Poisoning,497,39.1955836,Northeast,2013,Females,Ages 18-85+
+Suffocation,367,28.94321767,Northeast,2013,Females,Ages 18-85+
+Firearm,217,17.11356467,Northeast,2013,Females,Ages 18-85+
+Fall,72,5.678233438,Northeast,2013,Females,Ages 18-85+
+Cut/pierce,37,2.917981073,Northeast,2013,Females,Ages 18-85+
+"Other Spec., classifiable",30,2.365930599,Northeast,2013,Females,Ages 18-85+
+Drowning,27,2.129337539,Northeast,2013,Females,Ages 18-85+
+Fire/burn,8,0.630914826,Northeast,2013,Females,Ages 18-85+
+"Other Spec., NEC",8,0.630914826,Northeast,2013,Females,Ages 18-85+
+Transportation- Related,3,0.23659306,Northeast,2013,Females,Ages 18-85+
+Unspecified,2,0.157728707,Northeast,2013,Females,Ages 18-85+
+Firearm,1486,44.51767525,South,2013,Females,Ages 18-85+
+Poisoning,1040,31.15638107,South,2013,Females,Ages 18-85+
+Suffocation,560,16.77651288,South,2013,Females,Ages 18-85+
+Fall,60,1.797483523,South,2013,Females,Ages 18-85+
+Cut/pierce,52,1.557819053,South,2013,Females,Ages 18-85+
+Drowning,50,1.497902936,South,2013,Females,Ages 18-85+
+"Other Spec., classifiable",33,0.988615938,South,2013,Females,Ages 18-85+
+Fire/burn,19,0.569203116,South,2013,Females,Ages 18-85+
+"Other Spec., NEC",17,0.509286998,South,2013,Females,Ages 18-85+
+Transportation- Related,16,0.479328939,South,2013,Females,Ages 18-85+
+Unspecified,5,0.149790294,South,2013,Females,Ages 18-85+
+Poisoning,663,37.67045455,Midwest,2013,Females,Ages 18-85+
+Firearm,515,29.26136364,Midwest,2013,Females,Ages 18-85+
+Suffocation,438,24.88636364,Midwest,2013,Females,Ages 18-85+
+Fall,35,1.988636364,Midwest,2013,Females,Ages 18-85+
+Cut/pierce,28,1.590909091,Midwest,2013,Females,Ages 18-85+
+"Other Spec., classifiable",24,1.363636364,Midwest,2013,Females,Ages 18-85+
+Drowning,23,1.306818182,Midwest,2013,Females,Ages 18-85+
+Fire/burn,12,0.681818182,Midwest,2013,Females,Ages 18-85+
+Transportation- Related,12,0.681818182,Midwest,2013,Females,Ages 18-85+
+"Other Spec., NEC",8,0.454545455,Midwest,2013,Females,Ages 18-85+
+Unspecified,2,0.113636364,Midwest,2013,Females,Ages 18-85+
+Poisoning,936,39.69465649,West,2013,Females,Ages 18-85+
+Firearm,651,27.60814249,West,2013,Females,Ages 18-85+
+Suffocation,533,22.60390161,West,2013,Females,Ages 18-85+
+Fall,91,3.859202714,West,2013,Females,Ages 18-85+
+Cut/pierce,49,2.078032231,West,2013,Females,Ages 18-85+
+Drowning,31,1.314673452,West,2013,Females,Ages 18-85+
+"Other Spec., classifiable",25,1.060220526,West,2013,Females,Ages 18-85+
+"Other Spec., NEC",14,0.593723494,West,2013,Females,Ages 18-85+
+Transportation- Related,13,0.551314673,West,2013,Females,Ages 18-85+
+Fire/burn,10,0.42408821,West,2013,Females,Ages 18-85+
+Unspecified,5,0.212044105,West,2013,Females,Ages 18-85+
+Poisoning,3248,35.07559395,United States,2014,Females,Ages 18-85+
+Firearm,2920,31.53347732,United States,2014,Females,Ages 18-85+
+Suffocation,2288,24.70842333,United States,2014,Females,Ages 18-85+
+Fall,260,2.807775378,United States,2014,Females,Ages 18-85+
+Drowning,138,1.490280778,United States,2014,Females,Ages 18-85+
+Cut/pierce,124,1.339092873,United States,2014,Females,Ages 18-85+
+"Other Spec., classifiable",118,1.274298056,United States,2014,Females,Ages 18-85+
+Fire/burn,59,0.637149028,United States,2014,Females,Ages 18-85+
+Transportation- Related,49,0.529157667,United States,2014,Females,Ages 18-85+
+"Other Spec., NEC",41,0.442764579,United States,2014,Females,Ages 18-85+
+Unspecified,15,0.161987041,United States,2014,Females,Ages 18-85+
+Poisoning,499,37.43435859,Northeast,2014,Females,Ages 18-85+
+Suffocation,448,33.6084021,Northeast,2014,Females,Ages 18-85+
+Firearm,195,14.62865716,Northeast,2014,Females,Ages 18-85+
+Fall,77,5.776444111,Northeast,2014,Females,Ages 18-85+
+Drowning,37,2.775693923,Northeast,2014,Females,Ages 18-85+
+"Other Spec., classifiable",30,2.250562641,Northeast,2014,Females,Ages 18-85+
+Cut/pierce,24,1.800450113,Northeast,2014,Females,Ages 18-85+
+Fire/burn,8,0.600150038,Northeast,2014,Females,Ages 18-85+
+"Other Spec., NEC",8,0.600150038,Northeast,2014,Females,Ages 18-85+
+Transportation- Related,4,0.300075019,Northeast,2014,Females,Ages 18-85+
+Unspecified,3,0.225056264,Northeast,2014,Females,Ages 18-85+
+Firearm,1540,42.00763775,South,2014,Females,Ages 18-85+
+Poisoning,1173,31.99672668,South,2014,Females,Ages 18-85+
+Suffocation,696,18.98527005,South,2014,Females,Ages 18-85+
+Fall,74,2.018548827,South,2014,Females,Ages 18-85+
+Cut/pierce,60,1.636661211,South,2014,Females,Ages 18-85+
+Drowning,40,1.091107474,South,2014,Females,Ages 18-85+
+"Other Spec., classifiable",31,0.845608292,South,2014,Females,Ages 18-85+
+Fire/burn,18,0.490998363,South,2014,Females,Ages 18-85+
+Transportation- Related,16,0.43644299,South,2014,Females,Ages 18-85+
+"Other Spec., NEC",10,0.272776869,South,2014,Females,Ages 18-85+
+Unspecified,8,0.218221495,South,2014,Females,Ages 18-85+
+Poisoning,675,37.29281768,Midwest,2014,Females,Ages 18-85+
+Suffocation,507,28.01104972,Midwest,2014,Females,Ages 18-85+
+Firearm,496,27.40331492,Midwest,2014,Females,Ages 18-85+
+Fall,31,1.712707182,Midwest,2014,Females,Ages 18-85+
+"Other Spec., classifiable",27,1.491712707,Midwest,2014,Females,Ages 18-85+
+Drowning,21,1.160220994,Midwest,2014,Females,Ages 18-85+
+Cut/pierce,15,0.828729282,Midwest,2014,Females,Ages 18-85+
+Fire/burn,14,0.773480663,Midwest,2014,Females,Ages 18-85+
+Transportation- Related,12,0.662983425,Midwest,2014,Females,Ages 18-85+
+"Other Spec., NEC",10,0.552486188,Midwest,2014,Females,Ages 18-85+
+Unspecified,2,0.110497238,Midwest,2014,Females,Ages 18-85+
+Poisoning,901,36.76050592,West,2014,Females,Ages 18-85+
+Firearm,689,28.11097511,West,2014,Females,Ages 18-85+
+Suffocation,637,25.98939208,West,2014,Females,Ages 18-85+
+Fall,78,3.182374541,West,2014,Females,Ages 18-85+
+Drowning,40,1.631986944,West,2014,Females,Ages 18-85+
+"Other Spec., classifiable",30,1.223990208,West,2014,Females,Ages 18-85+
+Cut/pierce,25,1.01999184,West,2014,Females,Ages 18-85+
+Fire/burn,19,0.775193798,West,2014,Females,Ages 18-85+
+Transportation- Related,17,0.693594451,West,2014,Females,Ages 18-85+
+"Other Spec., NEC",13,0.530395757,West,2014,Females,Ages 18-85+
+Unspecified,2,0.081599347,West,2014,Females,Ages 18-85+
+Poisoning,3356,34.37115936,United States,2015,Females,Ages 18-85+
+Firearm,3022,30.95043015,United States,2015,Females,Ages 18-85+
+Suffocation,2464,25.2355592,United States,2015,Females,Ages 18-85+
+Fall,272,2.785743548,United States,2015,Females,Ages 18-85+
+Drowning,188,1.925440393,United States,2015,Females,Ages 18-85+
+Cut/pierce,155,1.587464154,United States,2015,Females,Ages 18-85+
+"Other Spec., classifiable",147,1.50553052,United States,2015,Females,Ages 18-85+
+Fire/burn,52,0.532568619,United States,2015,Females,Ages 18-85+
+Transportation- Related,42,0.430151577,United States,2015,Females,Ages 18-85+
+"Other Spec., NEC",40,0.409668169,United States,2015,Females,Ages 18-85+
+Unspecified,26,0.26628431,United States,2015,Females,Ages 18-85+
+Poisoning,529,36.8641115,Northeast,2015,Females,Ages 18-85+
+Suffocation,469,32.68292683,Northeast,2015,Females,Ages 18-85+
+Firearm,218,15.19163763,Northeast,2015,Females,Ages 18-85+
+Fall,85,5.923344948,Northeast,2015,Females,Ages 18-85+
+Drowning,45,3.135888502,Northeast,2015,Females,Ages 18-85+
+Cut/pierce,32,2.229965157,Northeast,2015,Females,Ages 18-85+
+"Other Spec., classifiable",30,2.090592334,Northeast,2015,Females,Ages 18-85+
+Fire/burn,14,0.975609756,Northeast,2015,Females,Ages 18-85+
+Transportation- Related,6,0.418118467,Northeast,2015,Females,Ages 18-85+
+"Other Spec., NEC",4,0.278745645,Northeast,2015,Females,Ages 18-85+
+Unspecified,3,0.209059233,Northeast,2015,Females,Ages 18-85+
+Firearm,1577,41.8635519,South,2015,Females,Ages 18-85+
+Poisoning,1144,30.36899389,South,2015,Females,Ages 18-85+
+Suffocation,772,20.49376161,South,2015,Females,Ages 18-85+
+Drowning,71,1.884788957,South,2015,Females,Ages 18-85+
+Fall,59,1.566233077,South,2015,Females,Ages 18-85+
+Cut/pierce,50,1.327316167,South,2015,Females,Ages 18-85+
+"Other Spec., classifiable",44,1.168038227,South,2015,Females,Ages 18-85+
+Fire/burn,19,0.504380143,South,2015,Females,Ages 18-85+
+Transportation- Related,13,0.345102203,South,2015,Females,Ages 18-85+
+"Other Spec., NEC",12,0.31855588,South,2015,Females,Ages 18-85+
+Unspecified,6,0.15927794,South,2015,Females,Ages 18-85+
+Poisoning,724,37.28115345,Midwest,2015,Females,Ages 18-85+
+Firearm,523,26.93099897,Midwest,2015,Females,Ages 18-85+
+Suffocation,519,26.72502575,Midwest,2015,Females,Ages 18-85+
+Drowning,40,2.059732235,Midwest,2015,Females,Ages 18-85+
+Fall,33,1.699279094,Midwest,2015,Females,Ages 18-85+
+"Other Spec., classifiable",33,1.699279094,Midwest,2015,Females,Ages 18-85+
+Cut/pierce,31,1.596292482,Midwest,2015,Females,Ages 18-85+
+"Other Spec., NEC",11,0.566426365,Midwest,2015,Females,Ages 18-85+
+Fire/burn,10,0.514933059,Midwest,2015,Females,Ages 18-85+
+Transportation- Related,10,0.514933059,Midwest,2015,Females,Ages 18-85+
+Unspecified,8,0.411946447,Midwest,2015,Females,Ages 18-85+
+Poisoning,959,36.60305344,West,2015,Females,Ages 18-85+
+Firearm,704,26.87022901,West,2015,Females,Ages 18-85+
+Suffocation,704,26.87022901,West,2015,Females,Ages 18-85+
+Fall,95,3.625954198,West,2015,Females,Ages 18-85+
+Cut/pierce,42,1.603053435,West,2015,Females,Ages 18-85+
+"Other Spec., classifiable",40,1.526717557,West,2015,Females,Ages 18-85+
+Drowning,32,1.221374046,West,2015,Females,Ages 18-85+
+Transportation- Related,13,0.496183206,West,2015,Females,Ages 18-85+
+"Other Spec., NEC",13,0.496183206,West,2015,Females,Ages 18-85+
+Fire/burn,9,0.34351145,West,2015,Females,Ages 18-85+
+Unspecified,9,0.34351145,West,2015,Females,Ages 18-85+
+Poisoning,3320,34.07574669,United States,2016,Females,Ages 18-85+
+Firearm,3178,32.61829005,United States,2016,Females,Ages 18-85+
+Suffocation,2297,23.57590065,United States,2016,Females,Ages 18-85+
+Fall,281,2.884121934,United States,2016,Females,Ages 18-85+
+Drowning,193,1.980909371,United States,2016,Females,Ages 18-85+
+"Other Spec., classifiable",160,1.64220466,United States,2016,Females,Ages 18-85+
+Cut/pierce,150,1.539566869,United States,2016,Females,Ages 18-85+
+Fire/burn,56,0.574771631,United States,2016,Females,Ages 18-85+
+"Other Spec., NEC",54,0.554244073,United States,2016,Females,Ages 18-85+
+Transportation- Related,44,0.451606281,United States,2016,Females,Ages 18-85+
+Unspecified,10,0.102637791,United States,2016,Females,Ages 18-85+
+Poisoning,539,39.2,Northeast,2016,Females,Ages 18-85+
+Suffocation,435,31.63636364,Northeast,2016,Females,Ages 18-85+
+Firearm,204,14.83636364,Northeast,2016,Females,Ages 18-85+
+Fall,74,5.381818182,Northeast,2016,Females,Ages 18-85+
+Drowning,39,2.836363636,Northeast,2016,Females,Ages 18-85+
+"Other Spec., classifiable",37,2.690909091,Northeast,2016,Females,Ages 18-85+
+Cut/pierce,28,2.036363636,Northeast,2016,Females,Ages 18-85+
+"Other Spec., NEC",8,0.581818182,Northeast,2016,Females,Ages 18-85+
+Fire/burn,6,0.436363636,Northeast,2016,Females,Ages 18-85+
+Unspecified,3,0.218181818,Northeast,2016,Females,Ages 18-85+
+Transportation- Related,2,0.145454545,Northeast,2016,Females,Ages 18-85+
+Firearm,1705,44.03409091,South,2016,Females,Ages 18-85+
+Poisoning,1170,30.21694215,South,2016,Females,Ages 18-85+
+Suffocation,699,18.05268595,South,2016,Females,Ages 18-85+
+Drowning,75,1.936983471,South,2016,Females,Ages 18-85+
+Fall,71,1.833677686,South,2016,Females,Ages 18-85+
+Cut/pierce,59,1.523760331,South,2016,Females,Ages 18-85+
+"Other Spec., classifiable",33,0.852272727,South,2016,Females,Ages 18-85+
+"Other Spec., NEC",22,0.568181818,South,2016,Females,Ages 18-85+
+Fire/burn,20,0.516528926,South,2016,Females,Ages 18-85+
+Transportation- Related,12,0.309917355,South,2016,Females,Ages 18-85+
+Unspecified,6,0.154958678,South,2016,Females,Ages 18-85+
+Poisoning,696,35.13377082,Midwest,2016,Females,Ages 18-85+
+Firearm,566,28.57142857,Midwest,2016,Females,Ages 18-85+
+Suffocation,549,27.71327612,Midwest,2016,Females,Ages 18-85+
+Fall,38,1.91822312,Midwest,2016,Females,Ages 18-85+
+"Other Spec., classifiable",37,1.867743564,Midwest,2016,Females,Ages 18-85+
+Cut/pierce,32,1.615345785,Midwest,2016,Females,Ages 18-85+
+Drowning,28,1.413427562,Midwest,2016,Females,Ages 18-85+
+Fire/burn,19,0.95911156,Midwest,2016,Females,Ages 18-85+
+Transportation- Related,10,0.504795558,Midwest,2016,Females,Ages 18-85+
+"Other Spec., NEC",6,0.302877335,Midwest,2016,Females,Ages 18-85+
+Poisoning,915,36.38170974,West,2016,Females,Ages 18-85+
+Firearm,703,27.95228628,West,2016,Females,Ages 18-85+
+Suffocation,614,24.41351889,West,2016,Females,Ages 18-85+
+Fall,98,3.896620278,West,2016,Females,Ages 18-85+
+"Other Spec., classifiable",53,2.107355865,West,2016,Females,Ages 18-85+
+Drowning,51,2.027833002,West,2016,Females,Ages 18-85+
+Cut/pierce,31,1.232604374,West,2016,Females,Ages 18-85+
+Transportation- Related,20,0.795228628,West,2016,Females,Ages 18-85+
+"Other Spec., NEC",18,0.715705765,West,2016,Females,Ages 18-85+
+Fire/burn,11,0.437375746,West,2016,Females,Ages 18-85+
+Unspecified,1,0.039761431,West,2016,Females,Ages 18-85+
