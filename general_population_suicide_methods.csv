@@ -1,660 +1,541 @@
-Cause of Death,State,Year,Age Group,Deaths,Total Deaths,Percent
-Firearm,United States,2005,Ages 18-85+,16589,31610,52.48
-Suffocation,United States,2005,Ages 18-85+,6740,31610,21.32
-Poisoning,United States,2005,Ages 18-85+,5683,31610,17.98
-Fall,United States,2005,Ages 18-85+,671,31610,2.12
-Cut/pierce,United States,2005,Ages 18-85+,589,31610,1.86
-"Other Spec., classifiable",United States,2005,Ages 18-85+,318,31610,1.01
-Drowning,United States,2005,Ages 18-85+,372,31610,1.18
-"Other Spec., NEC",United States,2005,Ages 18-85+,223,31610,0.71
-Unspecified,United States,2005,Ages 18-85+,164,31610,0.52
-Fire/burn,United States,2005,Ages 18-85+,157,31610,0.5
-Transportation- Related,United States,2005,Ages 18-85+,104,31610,0.33
-Firearm,Northeast,2005,Ages 18-85+,1788,4298,41.6
-Suffocation,Northeast,2005,Ages 18-85+,1235,4298,28.73
-Poisoning,Northeast,2005,Ages 18-85+,744,4298,17.31
-Fall,Northeast,2005,Ages 18-85+,178,4298,4.14
-Cut/pierce,Northeast,2005,Ages 18-85+,114,4298,2.65
-"Other Spec., classifiable",Northeast,2005,Ages 18-85+,80,4298,1.86
-Drowning,Northeast,2005,Ages 18-85+,72,4298,1.68
-Fire/burn,Northeast,2005,Ages 18-85+,32,4298,0.74
-"Other Spec., NEC",Northeast,2005,Ages 18-85+,30,4298,0.7
-Unspecified,Northeast,2005,Ages 18-85+,20,4298,0.47
-Transportation- Related,Northeast,2005,Ages 18-85+,5,4298,0.12
-Firearm,South,2005,Ages 18-85+,7323,12285,59.61
-Suffocation,South,2005,Ages 18-85+,2220,12285,18.07
-Poisoning,South,2005,Ages 18-85+,1932,12285,15.73
-Cut/pierce,South,2005,Ages 18-85+,204,12285,1.66
-Fall,South,2005,Ages 18-85+,176,12285,1.43
-Drowning,South,2005,Ages 18-85+,128,12285,1.04
-"Other Spec., classifiable",South,2005,Ages 18-85+,90,12285,0.73
-"Other Spec., NEC",South,2005,Ages 18-85+,82,12285,0.67
-Unspecified,South,2005,Ages 18-85+,53,12285,0.43
-Fire/burn,South,2005,Ages 18-85+,52,12285,0.42
-Transportation- Related,South,2005,Ages 18-85+,25,12285,0.2
-Firearm,Midwest,2005,Ages 18-85+,3540,7029,50.36
-Suffocation,Midwest,2005,Ages 18-85+,1542,7029,21.94
-Poisoning,Midwest,2005,Ages 18-85+,1432,7029,20.37
-Cut/pierce,Midwest,2005,Ages 18-85+,107,7029,1.52
-Fall,Midwest,2005,Ages 18-85+,105,7029,1.49
-Drowning,Midwest,2005,Ages 18-85+,75,7029,1.07
-"Other Spec., classifiable",Midwest,2005,Ages 18-85+,61,7029,0.87
-Unspecified,Midwest,2005,Ages 18-85+,53,7029,0.75
-"Other Spec., NEC",Midwest,2005,Ages 18-85+,44,7029,0.63
-Fire/burn,Midwest,2005,Ages 18-85+,36,7029,0.51
-Transportation- Related,Midwest,2005,Ages 18-85+,34,7029,0.48
-Firearm,West,2005,Ages 18-85+,3938,7998,49.24
-Suffocation,West,2005,Ages 18-85+,1743,7998,21.79
-Poisoning,West,2005,Ages 18-85+,1575,7998,19.69
-Fall,West,2005,Ages 18-85+,212,7998,2.65
-Cut/pierce,West,2005,Ages 18-85+,164,7998,2.05
-"Other Spec., classifiable",West,2005,Ages 18-85+,87,7998,1.09
-Drowning,West,2005,Ages 18-85+,97,7998,1.21
-"Other Spec., NEC",West,2005,Ages 18-85+,67,7998,0.84
-Transportation- Related,West,2005,Ages 18-85+,40,7998,0.5
-Unspecified,West,2005,Ages 18-85+,38,7998,0.48
-Fire/burn,West,2005,Ages 18-85+,37,7998,0.46
-Firearm,United States,2006,Ages 18-85+,16511,32351,51.04
-Suffocation,United States,2006,Ages 18-85+,7024,32351,21.71
-Poisoning,United States,2006,Ages 18-85+,6059,32351,18.73
-Fall,United States,2006,Ages 18-85+,710,32351,2.19
-Cut/pierce,United States,2006,Ages 18-85+,595,32351,1.84
-"Other Spec., classifiable",United States,2006,Ages 18-85+,343,32351,1.06
-Drowning,United States,2006,Ages 18-85+,395,32351,1.22
-"Other Spec., NEC",United States,2006,Ages 18-85+,256,32351,0.79
-Fire/burn,United States,2006,Ages 18-85+,190,32351,0.59
-Unspecified,United States,2006,Ages 18-85+,138,32351,0.43
-Transportation- Related,United States,2006,Ages 18-85+,130,32351,0.4
-Firearm,Northeast,2006,Ages 18-85+,1698,4428,38.35
-Suffocation,Northeast,2006,Ages 18-85+,1317,4428,29.74
-Poisoning,Northeast,2006,Ages 18-85+,865,4428,19.53
-Fall,Northeast,2006,Ages 18-85+,180,4428,4.07
-Cut/pierce,Northeast,2006,Ages 18-85+,112,4428,2.53
-Drowning,Northeast,2006,Ages 18-85+,86,4428,1.94
-"Other Spec., classifiable",Northeast,2006,Ages 18-85+,74,4428,1.67
-Fire/burn,Northeast,2006,Ages 18-85+,31,4428,0.7
-"Other Spec., NEC",Northeast,2006,Ages 18-85+,33,4428,0.75
-Unspecified,Northeast,2006,Ages 18-85+,16,4428,0.36
-Transportation- Related,Northeast,2006,Ages 18-85+,16,4428,0.36
-Firearm,South,2006,Ages 18-85+,7408,12590,58.84
-Suffocation,South,2006,Ages 18-85+,2331,12590,18.51
-Poisoning,South,2006,Ages 18-85+,1983,12590,15.75
-Cut/pierce,South,2006,Ages 18-85+,200,12590,1.59
-Fall,South,2006,Ages 18-85+,186,12590,1.48
-"Other Spec., NEC",South,2006,Ages 18-85+,106,12590,0.84
-Drowning,South,2006,Ages 18-85+,131,12590,1.04
-"Other Spec., classifiable",South,2006,Ages 18-85+,91,12590,0.72
-Fire/burn,South,2006,Ages 18-85+,65,12590,0.52
-Unspecified,South,2006,Ages 18-85+,58,12590,0.46
-Transportation- Related,South,2006,Ages 18-85+,31,12590,0.25
-Firearm,Midwest,2006,Ages 18-85+,3501,7191,48.69
-Suffocation,Midwest,2006,Ages 18-85+,1618,7191,22.5
-Poisoning,Midwest,2006,Ages 18-85+,1509,7191,20.98
-Cut/pierce,Midwest,2006,Ages 18-85+,113,7191,1.57
-Fall,Midwest,2006,Ages 18-85+,115,7191,1.6
-Drowning,Midwest,2006,Ages 18-85+,83,7191,1.15
-"Other Spec., classifiable",Midwest,2006,Ages 18-85+,77,7191,1.07
-Fire/burn,Midwest,2006,Ages 18-85+,55,7191,0.76
-"Other Spec., NEC",Midwest,2006,Ages 18-85+,51,7191,0.71
-Transportation- Related,Midwest,2006,Ages 18-85+,42,7191,0.58
-Unspecified,Midwest,2006,Ages 18-85+,27,7191,0.38
-Firearm,West,2006,Ages 18-85+,3904,8142,47.95
-Suffocation,West,2006,Ages 18-85+,1758,8142,21.59
-Poisoning,West,2006,Ages 18-85+,1702,8142,20.9
-Fall,West,2006,Ages 18-85+,229,8142,2.81
-Cut/pierce,West,2006,Ages 18-85+,170,8142,2.09
-"Other Spec., classifiable",West,2006,Ages 18-85+,101,8142,1.24
-Drowning,West,2006,Ages 18-85+,95,8142,1.17
-"Other Spec., NEC",West,2006,Ages 18-85+,66,8142,0.81
-Transportation- Related,West,2006,Ages 18-85+,41,8142,0.5
-Unspecified,West,2006,Ages 18-85+,37,8142,0.45
-Fire/burn,West,2006,Ages 18-85+,39,8142,0.48
-Firearm,United States,2007,Ages 18-85+,17025,33753,50.44
-Suffocation,United States,2007,Ages 18-85+,7744,33753,22.94
-Poisoning,United States,2007,Ages 18-85+,6298,33753,18.66
-Fall,United States,2007,Ages 18-85+,724,33753,2.14
-Cut/pierce,United States,2007,Ages 18-85+,615,33753,1.82
-"Other Spec., classifiable",United States,2007,Ages 18-85+,321,33753,0.95
-Drowning,United States,2007,Ages 18-85+,353,33753,1.05
-"Other Spec., NEC",United States,2007,Ages 18-85+,231,33753,0.68
-Unspecified,United States,2007,Ages 18-85+,160,33753,0.47
-Fire/burn,United States,2007,Ages 18-85+,155,33753,0.46
-Transportation- Related,United States,2007,Ages 18-85+,127,33753,0.38
-Firearm,Northeast,2007,Ages 18-85+,1721,4647,37.03
-Suffocation,Northeast,2007,Ages 18-85+,1422,4647,30.6
-Poisoning,Northeast,2007,Ages 18-85+,919,4647,19.78
-Fall,Northeast,2007,Ages 18-85+,188,4647,4.05
-Cut/pierce,Northeast,2007,Ages 18-85+,125,4647,2.69
-"Other Spec., classifiable",Northeast,2007,Ages 18-85+,100,4647,2.15
-Drowning,Northeast,2007,Ages 18-85+,77,4647,1.66
-"Other Spec., NEC",Northeast,2007,Ages 18-85+,40,4647,0.86
-Unspecified,Northeast,2007,Ages 18-85+,28,4647,0.6
-Fire/burn,Northeast,2007,Ages 18-85+,16,4647,0.34
-Transportation- Related,Northeast,2007,Ages 18-85+,11,4647,0.24
-Firearm,South,2007,Ages 18-85+,7639,13097,58.33
-Suffocation,South,2007,Ages 18-85+,2611,13097,19.94
-Poisoning,South,2007,Ages 18-85+,2102,13097,16.05
-Cut/pierce,South,2007,Ages 18-85+,192,13097,1.47
-Fall,South,2007,Ages 18-85+,152,13097,1.16
-Drowning,South,2007,Ages 18-85+,125,13097,0.95
-"Other Spec., classifiable",South,2007,Ages 18-85+,75,13097,0.57
-"Other Spec., NEC",South,2007,Ages 18-85+,77,13097,0.59
-Unspecified,South,2007,Ages 18-85+,51,13097,0.39
-Fire/burn,South,2007,Ages 18-85+,53,13097,0.4
-Transportation- Related,South,2007,Ages 18-85+,20,13097,0.15
-Firearm,Midwest,2007,Ages 18-85+,3522,7285,48.35
-Suffocation,Midwest,2007,Ages 18-85+,1790,7285,24.57
-Poisoning,Midwest,2007,Ages 18-85+,1444,7285,19.82
-Cut/pierce,Midwest,2007,Ages 18-85+,124,7285,1.7
-Fall,Midwest,2007,Ages 18-85+,112,7285,1.54
-"Other Spec., classifiable",Midwest,2007,Ages 18-85+,59,7285,0.81
-Drowning,Midwest,2007,Ages 18-85+,65,7285,0.89
-Fire/burn,Midwest,2007,Ages 18-85+,47,7285,0.65
-"Other Spec., NEC",Midwest,2007,Ages 18-85+,38,7285,0.52
-Unspecified,Midwest,2007,Ages 18-85+,40,7285,0.55
-Transportation- Related,Midwest,2007,Ages 18-85+,44,7285,0.6
-Firearm,West,2007,Ages 18-85+,4143,8724,47.49
-Suffocation,West,2007,Ages 18-85+,1921,8724,22.02
-Poisoning,West,2007,Ages 18-85+,1833,8724,21.01
-Fall,West,2007,Ages 18-85+,272,8724,3.12
-Cut/pierce,West,2007,Ages 18-85+,174,8724,1.99
-"Other Spec., classifiable",West,2007,Ages 18-85+,87,8724,1.0
-Drowning,West,2007,Ages 18-85+,86,8724,0.99
-"Other Spec., NEC",West,2007,Ages 18-85+,76,8724,0.87
-Transportation- Related,West,2007,Ages 18-85+,52,8724,0.6
-Unspecified,West,2007,Ages 18-85+,41,8724,0.47
-Fire/burn,West,2007,Ages 18-85+,39,8724,0.45
-Firearm,United States,2008,Ages 18-85+,17862,35045,50.97
-Suffocation,United States,2008,Ages 18-85+,8058,35045,22.99
-Poisoning,United States,2008,Ages 18-85+,6386,35045,18.22
-Cut/pierce,United States,2008,Ages 18-85+,663,35045,1.89
-Fall,United States,2008,Ages 18-85+,697,35045,1.99
-Drowning,United States,2008,Ages 18-85+,404,35045,1.15
-"Other Spec., classifiable",United States,2008,Ages 18-85+,285,35045,0.81
-"Other Spec., NEC",United States,2008,Ages 18-85+,215,35045,0.61
-Unspecified,United States,2008,Ages 18-85+,183,35045,0.52
-Fire/burn,United States,2008,Ages 18-85+,168,35045,0.48
-Transportation- Related,United States,2008,Ages 18-85+,124,35045,0.35
-Firearm,Northeast,2008,Ages 18-85+,1826,4837,37.75
-Suffocation,Northeast,2008,Ages 18-85+,1523,4837,31.49
-Poisoning,Northeast,2008,Ages 18-85+,916,4837,18.94
-Fall,Northeast,2008,Ages 18-85+,186,4837,3.85
-Cut/pierce,Northeast,2008,Ages 18-85+,127,4837,2.63
-"Other Spec., classifiable",Northeast,2008,Ages 18-85+,70,4837,1.45
-Drowning,Northeast,2008,Ages 18-85+,77,4837,1.59
-Unspecified,Northeast,2008,Ages 18-85+,38,4837,0.79
-"Other Spec., NEC",Northeast,2008,Ages 18-85+,32,4837,0.66
-Fire/burn,Northeast,2008,Ages 18-85+,33,4837,0.68
-Transportation- Related,Northeast,2008,Ages 18-85+,9,4837,0.19
-Firearm,South,2008,Ages 18-85+,8086,13681,59.1
-Suffocation,South,2008,Ages 18-85+,2604,13681,19.03
-Poisoning,South,2008,Ages 18-85+,2163,13681,15.81
-Cut/pierce,South,2008,Ages 18-85+,218,13681,1.59
-Fall,South,2008,Ages 18-85+,161,13681,1.18
-Drowning,South,2008,Ages 18-85+,164,13681,1.2
-"Other Spec., classifiable",South,2008,Ages 18-85+,65,13681,0.48
-"Other Spec., NEC",South,2008,Ages 18-85+,74,13681,0.54
-Fire/burn,South,2008,Ages 18-85+,65,13681,0.48
-Unspecified,South,2008,Ages 18-85+,55,13681,0.4
-Transportation- Related,South,2008,Ages 18-85+,26,13681,0.19
-Firearm,Midwest,2008,Ages 18-85+,3696,7564,48.86
-Suffocation,Midwest,2008,Ages 18-85+,1845,7564,24.39
-Poisoning,Midwest,2008,Ages 18-85+,1449,7564,19.16
-Cut/pierce,Midwest,2008,Ages 18-85+,150,7564,1.98
-Fall,Midwest,2008,Ages 18-85+,116,7564,1.53
-"Other Spec., classifiable",Midwest,2008,Ages 18-85+,68,7564,0.9
-Drowning,Midwest,2008,Ages 18-85+,76,7564,1.0
-"Other Spec., NEC",Midwest,2008,Ages 18-85+,50,7564,0.66
-Transportation- Related,Midwest,2008,Ages 18-85+,42,7564,0.56
-Unspecified,Midwest,2008,Ages 18-85+,36,7564,0.48
-Fire/burn,Midwest,2008,Ages 18-85+,36,7564,0.48
-Firearm,West,2008,Ages 18-85+,4254,8963,47.46
-Suffocation,West,2008,Ages 18-85+,2086,8963,23.27
-Poisoning,West,2008,Ages 18-85+,1858,8963,20.73
-Fall,West,2008,Ages 18-85+,234,8963,2.61
-Cut/pierce,West,2008,Ages 18-85+,168,8963,1.87
-"Other Spec., classifiable",West,2008,Ages 18-85+,82,8963,0.91
-Drowning,West,2008,Ages 18-85+,87,8963,0.97
-Unspecified,West,2008,Ages 18-85+,54,8963,0.6
-"Other Spec., NEC",West,2008,Ages 18-85+,59,8963,0.66
-Transportation- Related,West,2008,Ages 18-85+,47,8963,0.52
-Fire/burn,West,2008,Ages 18-85+,34,8963,0.38
-Firearm,United States,2009,Ages 18-85+,18332,35838,51.15
-Suffocation,United States,2009,Ages 18-85+,8441,35838,23.55
-Poisoning,United States,2009,Ages 18-85+,6353,35838,17.73
-Cut/pierce,United States,2009,Ages 18-85+,669,35838,1.87
-Fall,United States,2009,Ages 18-85+,667,35838,1.86
-Drowning,United States,2009,Ages 18-85+,383,35838,1.07
-"Other Spec., classifiable",United States,2009,Ages 18-85+,314,35838,0.88
-"Other Spec., NEC",United States,2009,Ages 18-85+,243,35838,0.68
-Unspecified,United States,2009,Ages 18-85+,180,35838,0.5
-Fire/burn,United States,2009,Ages 18-85+,158,35838,0.44
-Transportation- Related,United States,2009,Ages 18-85+,98,35838,0.27
-Firearm,Northeast,2009,Ages 18-85+,1848,4874,37.92
-Suffocation,Northeast,2009,Ages 18-85+,1520,4874,31.19
-Poisoning,Northeast,2009,Ages 18-85+,946,4874,19.41
-Fall,Northeast,2009,Ages 18-85+,174,4874,3.57
-Cut/pierce,Northeast,2009,Ages 18-85+,123,4874,2.52
-"Other Spec., classifiable",Northeast,2009,Ages 18-85+,82,4874,1.68
-Drowning,Northeast,2009,Ages 18-85+,79,4874,1.62
-Unspecified,Northeast,2009,Ages 18-85+,38,4874,0.78
-"Other Spec., NEC",Northeast,2009,Ages 18-85+,36,4874,0.74
-Fire/burn,Northeast,2009,Ages 18-85+,23,4874,0.47
-Transportation- Related,Northeast,2009,Ages 18-85+,5,4874,0.1
-Firearm,South,2009,Ages 18-85+,8375,14176,59.08
-Suffocation,South,2009,Ages 18-85+,2813,14176,19.84
-Poisoning,South,2009,Ages 18-85+,2176,14176,15.35
-Cut/pierce,South,2009,Ages 18-85+,212,14176,1.5
-Fall,South,2009,Ages 18-85+,171,14176,1.21
-Drowning,South,2009,Ages 18-85+,128,14176,0.9
-"Other Spec., NEC",South,2009,Ages 18-85+,86,14176,0.61
-"Other Spec., classifiable",South,2009,Ages 18-85+,85,14176,0.6
-Unspecified,South,2009,Ages 18-85+,54,14176,0.38
-Fire/burn,South,2009,Ages 18-85+,51,14176,0.36
-Transportation- Related,South,2009,Ages 18-85+,25,14176,0.18
-Firearm,Midwest,2009,Ages 18-85+,3594,7381,48.69
-Suffocation,Midwest,2009,Ages 18-85+,1850,7381,25.06
-Poisoning,Midwest,2009,Ages 18-85+,1401,7381,18.98
-Cut/pierce,Midwest,2009,Ages 18-85+,136,7381,1.84
-Fall,Midwest,2009,Ages 18-85+,102,7381,1.38
-Drowning,Midwest,2009,Ages 18-85+,78,7381,1.06
-"Other Spec., classifiable",Midwest,2009,Ages 18-85+,71,7381,0.96
-Fire/burn,Midwest,2009,Ages 18-85+,46,7381,0.62
-Transportation- Related,Midwest,2009,Ages 18-85+,32,7381,0.43
-Unspecified,Midwest,2009,Ages 18-85+,34,7381,0.46
-"Other Spec., NEC",Midwest,2009,Ages 18-85+,37,7381,0.5
-Firearm,West,2009,Ages 18-85+,4515,9407,48.0
-Suffocation,West,2009,Ages 18-85+,2258,9407,24.0
-Poisoning,West,2009,Ages 18-85+,1830,9407,19.45
-Cut/pierce,West,2009,Ages 18-85+,198,9407,2.1
-Fall,West,2009,Ages 18-85+,220,9407,2.34
-Drowning,West,2009,Ages 18-85+,98,9407,1.04
-"Other Spec., NEC",West,2009,Ages 18-85+,84,9407,0.89
-"Other Spec., classifiable",West,2009,Ages 18-85+,76,9407,0.81
-Unspecified,West,2009,Ages 18-85+,54,9407,0.57
-Transportation- Related,West,2009,Ages 18-85+,36,9407,0.38
-Fire/burn,West,2009,Ages 18-85+,38,9407,0.4
-Firearm,United States,2010,Ages 18-85+,19015,37348,50.91
-Suffocation,United States,2010,Ages 18-85+,8960,37348,23.99
-Poisoning,United States,2010,Ages 18-85+,6548,37348,17.53
-Fall,United States,2010,Ages 18-85+,767,37348,2.05
-Cut/pierce,United States,2010,Ages 18-85+,671,37348,1.8
-Drowning,United States,2010,Ages 18-85+,402,37348,1.08
-"Other Spec., classifiable",United States,2010,Ages 18-85+,319,37348,0.85
-"Other Spec., NEC",United States,2010,Ages 18-85+,241,37348,0.65
-Unspecified,United States,2010,Ages 18-85+,185,37348,0.5
-Fire/burn,United States,2010,Ages 18-85+,130,37348,0.35
-Transportation- Related,United States,2010,Ages 18-85+,110,37348,0.29
-Firearm,Northeast,2010,Ages 18-85+,1917,5272,36.36
-Suffocation,Northeast,2010,Ages 18-85+,1748,5272,33.16
-Poisoning,Northeast,2010,Ages 18-85+,969,5272,18.38
-Fall,Northeast,2010,Ages 18-85+,198,5272,3.76
-Cut/pierce,Northeast,2010,Ages 18-85+,143,5272,2.71
-Drowning,Northeast,2010,Ages 18-85+,108,5272,2.05
-"Other Spec., classifiable",Northeast,2010,Ages 18-85+,85,5272,1.61
-Unspecified,Northeast,2010,Ages 18-85+,38,5272,0.72
-"Other Spec., NEC",Northeast,2010,Ages 18-85+,32,5272,0.61
-Fire/burn,Northeast,2010,Ages 18-85+,21,5272,0.4
-Transportation- Related,Northeast,2010,Ages 18-85+,13,5272,0.25
-Firearm,South,2010,Ages 18-85+,8603,14444,59.56
-Suffocation,South,2010,Ages 18-85+,2834,14444,19.62
-Poisoning,South,2010,Ages 18-85+,2189,14444,15.16
-Cut/pierce,South,2010,Ages 18-85+,194,14444,1.34
-Fall,South,2010,Ages 18-85+,193,14444,1.34
-Drowning,South,2010,Ages 18-85+,127,14444,0.88
-"Other Spec., classifiable",South,2010,Ages 18-85+,79,14444,0.55
-Unspecified,South,2010,Ages 18-85+,70,14444,0.48
-"Other Spec., NEC",South,2010,Ages 18-85+,75,14444,0.52
-Fire/burn,South,2010,Ages 18-85+,53,14444,0.37
-Transportation- Related,South,2010,Ages 18-85+,27,14444,0.19
-Firearm,Midwest,2010,Ages 18-85+,3889,7935,49.01
-Suffocation,Midwest,2010,Ages 18-85+,2013,7935,25.37
-Poisoning,Midwest,2010,Ages 18-85+,1464,7935,18.45
-Cut/pierce,Midwest,2010,Ages 18-85+,149,7935,1.88
-Fall,Midwest,2010,Ages 18-85+,125,7935,1.58
-Drowning,Midwest,2010,Ages 18-85+,73,7935,0.92
-"Other Spec., classifiable",Midwest,2010,Ages 18-85+,73,7935,0.92
-"Other Spec., NEC",Midwest,2010,Ages 18-85+,50,7935,0.63
-Unspecified,Midwest,2010,Ages 18-85+,37,7935,0.47
-Transportation- Related,Midwest,2010,Ages 18-85+,38,7935,0.48
-Fire/burn,Midwest,2010,Ages 18-85+,24,7935,0.3
-Firearm,West,2010,Ages 18-85+,4606,9697,47.5
-Suffocation,West,2010,Ages 18-85+,2365,9697,24.39
-Poisoning,West,2010,Ages 18-85+,1926,9697,19.86
-Fall,West,2010,Ages 18-85+,251,9697,2.59
-Cut/pierce,West,2010,Ages 18-85+,185,9697,1.91
-"Other Spec., classifiable",West,2010,Ages 18-85+,82,9697,0.85
-"Other Spec., NEC",West,2010,Ages 18-85+,84,9697,0.87
-Drowning,West,2010,Ages 18-85+,94,9697,0.97
-Unspecified,West,2010,Ages 18-85+,40,9697,0.41
-Transportation- Related,West,2010,Ages 18-85+,32,9697,0.33
-Fire/burn,West,2010,Ages 18-85+,32,9697,0.33
-Firearm,United States,2011,Ages 18-85+,19537,38378,50.91
-Suffocation,United States,2011,Ages 18-85+,9343,38378,24.34
-Poisoning,United States,2011,Ages 18-85+,6508,38378,16.96
-Fall,United States,2011,Ages 18-85+,791,38378,2.06
-Cut/pierce,United States,2011,Ages 18-85+,657,38378,1.71
-"Other Spec., classifiable",United States,2011,Ages 18-85+,422,38378,1.1
-Drowning,United States,2011,Ages 18-85+,350,38378,0.91
-Unspecified,United States,2011,Ages 18-85+,283,38378,0.74
-"Other Spec., NEC",United States,2011,Ages 18-85+,190,38378,0.5
-Transportation- Related,United States,2011,Ages 18-85+,142,38378,0.37
-Fire/burn,United States,2011,Ages 18-85+,155,38378,0.4
-Firearm,Northeast,2011,Ages 18-85+,2020,5541,36.46
-Suffocation,Northeast,2011,Ages 18-85+,1793,5541,32.36
-Poisoning,Northeast,2011,Ages 18-85+,1036,5541,18.7
-Fall,Northeast,2011,Ages 18-85+,182,5541,3.28
-Cut/pierce,Northeast,2011,Ages 18-85+,157,5541,2.83
-"Other Spec., classifiable",Northeast,2011,Ages 18-85+,99,5541,1.79
-Drowning,Northeast,2011,Ages 18-85+,99,5541,1.79
-Unspecified,Northeast,2011,Ages 18-85+,64,5541,1.16
-"Other Spec., NEC",Northeast,2011,Ages 18-85+,41,5541,0.74
-Fire/burn,Northeast,2011,Ages 18-85+,27,5541,0.49
-Transportation- Related,Northeast,2011,Ages 18-85+,23,5541,0.42
-Firearm,South,2011,Ages 18-85+,8888,14889,59.7
-Suffocation,South,2011,Ages 18-85+,2986,14889,20.06
-Poisoning,South,2011,Ages 18-85+,2132,14889,14.32
-Cut/pierce,South,2011,Ages 18-85+,188,14889,1.26
-Fall,South,2011,Ages 18-85+,206,14889,1.38
-Drowning,South,2011,Ages 18-85+,121,14889,0.81
-Unspecified,South,2011,Ages 18-85+,113,14889,0.76
-"Other Spec., classifiable",South,2011,Ages 18-85+,101,14889,0.68
-"Other Spec., NEC",South,2011,Ages 18-85+,68,14889,0.46
-Fire/burn,South,2011,Ages 18-85+,58,14889,0.39
-Transportation- Related,South,2011,Ages 18-85+,28,14889,0.19
-Firearm,Midwest,2011,Ages 18-85+,3930,8098,48.53
-Suffocation,Midwest,2011,Ages 18-85+,2200,8098,27.17
-Poisoning,Midwest,2011,Ages 18-85+,1403,8098,17.33
-Cut/pierce,Midwest,2011,Ages 18-85+,131,8098,1.62
-Fall,Midwest,2011,Ages 18-85+,116,8098,1.43
-"Other Spec., classifiable",Midwest,2011,Ages 18-85+,90,8098,1.11
-Drowning,Midwest,2011,Ages 18-85+,61,8098,0.75
-Unspecified,Midwest,2011,Ages 18-85+,50,8098,0.62
-Transportation- Related,Midwest,2011,Ages 18-85+,38,8098,0.47
-"Other Spec., NEC",Midwest,2011,Ages 18-85+,44,8098,0.54
-Fire/burn,Midwest,2011,Ages 18-85+,35,8098,0.43
-Firearm,West,2011,Ages 18-85+,4699,9850,47.71
-Suffocation,West,2011,Ages 18-85+,2364,9850,24.0
-Poisoning,West,2011,Ages 18-85+,1937,9850,19.66
-Fall,West,2011,Ages 18-85+,287,9850,2.91
-Cut/pierce,West,2011,Ages 18-85+,181,9850,1.84
-"Other Spec., classifiable",West,2011,Ages 18-85+,132,9850,1.34
-Drowning,West,2011,Ages 18-85+,69,9850,0.7
-Unspecified,West,2011,Ages 18-85+,56,9850,0.57
-Transportation- Related,West,2011,Ages 18-85+,53,9850,0.54
-"Other Spec., NEC",West,2011,Ages 18-85+,37,9850,0.38
-Fire/burn,West,2011,Ages 18-85+,35,9850,0.36
-Firearm,United States,2012,Ages 18-85+,20206,39426,51.25
-Suffocation,United States,2012,Ages 18-85+,9470,39426,24.02
-Poisoning,United States,2012,Ages 18-85+,6689,39426,16.97
-Fall,United States,2012,Ages 18-85+,934,39426,2.37
-Cut/pierce,United States,2012,Ages 18-85+,728,39426,1.85
-"Other Spec., classifiable",United States,2012,Ages 18-85+,486,39426,1.23
-Drowning,United States,2012,Ages 18-85+,424,39426,1.08
-Transportation- Related,United States,2012,Ages 18-85+,161,39426,0.41
-Fire/burn,United States,2012,Ages 18-85+,160,39426,0.41
-"Other Spec., NEC",United States,2012,Ages 18-85+,123,39426,0.31
-Unspecified,United States,2012,Ages 18-85+,45,39426,0.11
-Firearm,Northeast,2012,Ages 18-85+,1999,5469,36.55
-Suffocation,Northeast,2012,Ages 18-85+,1740,5469,31.82
-Poisoning,Northeast,2012,Ages 18-85+,1042,5469,19.05
-Fall,Northeast,2012,Ages 18-85+,256,5469,4.68
-Cut/pierce,Northeast,2012,Ages 18-85+,150,5469,2.74
-"Other Spec., classifiable",Northeast,2012,Ages 18-85+,103,5469,1.88
-Drowning,Northeast,2012,Ages 18-85+,93,5469,1.7
-Transportation- Related,Northeast,2012,Ages 18-85+,26,5469,0.48
-Fire/burn,Northeast,2012,Ages 18-85+,32,5469,0.59
-"Other Spec., NEC",Northeast,2012,Ages 18-85+,21,5469,0.38
-Unspecified,Northeast,2012,Ages 18-85+,7,5469,0.13
-Firearm,South,2012,Ages 18-85+,9086,15426,58.9
-Suffocation,South,2012,Ages 18-85+,3084,15426,19.99
-Poisoning,South,2012,Ages 18-85+,2338,15426,15.16
-Cut/pierce,South,2012,Ages 18-85+,235,15426,1.52
-Fall,South,2012,Ages 18-85+,216,15426,1.4
-"Other Spec., classifiable",South,2012,Ages 18-85+,124,15426,0.8
-Drowning,South,2012,Ages 18-85+,167,15426,1.08
-Fire/burn,South,2012,Ages 18-85+,61,15426,0.4
-Transportation- Related,South,2012,Ages 18-85+,49,15426,0.32
-"Other Spec., NEC",South,2012,Ages 18-85+,42,15426,0.27
-Unspecified,South,2012,Ages 18-85+,24,15426,0.16
-Firearm,Midwest,2012,Ages 18-85+,4230,8375,50.51
-Suffocation,Midwest,2012,Ages 18-85+,2180,8375,26.03
-Poisoning,Midwest,2012,Ages 18-85+,1390,8375,16.6
-Cut/pierce,Midwest,2012,Ages 18-85+,136,8375,1.62
-Fall,Midwest,2012,Ages 18-85+,134,8375,1.6
-"Other Spec., classifiable",Midwest,2012,Ages 18-85+,116,8375,1.39
-Drowning,Midwest,2012,Ages 18-85+,79,8375,0.94
-Transportation- Related,Midwest,2012,Ages 18-85+,36,8375,0.43
-Fire/burn,Midwest,2012,Ages 18-85+,38,8375,0.45
-"Other Spec., NEC",Midwest,2012,Ages 18-85+,29,8375,0.35
-Unspecified,Midwest,2012,Ages 18-85+,7,8375,0.08
-Firearm,West,2012,Ages 18-85+,4891,10156,48.16
-Suffocation,West,2012,Ages 18-85+,2466,10156,24.28
-Poisoning,West,2012,Ages 18-85+,1919,10156,18.9
-Fall,West,2012,Ages 18-85+,328,10156,3.23
-Cut/pierce,West,2012,Ages 18-85+,207,10156,2.04
-"Other Spec., classifiable",West,2012,Ages 18-85+,143,10156,1.41
-Drowning,West,2012,Ages 18-85+,85,10156,0.84
-Transportation- Related,West,2012,Ages 18-85+,50,10156,0.49
-"Other Spec., NEC",West,2012,Ages 18-85+,31,10156,0.31
-Fire/burn,West,2012,Ages 18-85+,29,10156,0.29
-Unspecified,West,2012,Ages 18-85+,7,10156,0.07
-Firearm,United States,2013,Ages 18-85+,20681,39894,51.84
-Suffocation,United States,2013,Ages 18-85+,9416,39894,23.6
-Poisoning,United States,2013,Ages 18-85+,6585,39894,16.51
-Fall,United States,2013,Ages 18-85+,955,39894,2.39
-Cut/pierce,United States,2013,Ages 18-85+,782,39894,1.96
-"Other Spec., classifiable",United States,2013,Ages 18-85+,504,39894,1.26
-Drowning,United States,2013,Ages 18-85+,393,39894,0.99
-Transportation- Related,United States,2013,Ages 18-85+,183,39894,0.46
-Fire/burn,United States,2013,Ages 18-85+,171,39894,0.43
-"Other Spec., NEC",United States,2013,Ages 18-85+,159,39894,0.4
-Unspecified,United States,2013,Ages 18-85+,65,39894,0.16
-Firearm,Northeast,2013,Ages 18-85+,2050,5651,36.28
-Suffocation,Northeast,2013,Ages 18-85+,1789,5651,31.66
-Poisoning,Northeast,2013,Ages 18-85+,1108,5651,19.61
-Fall,Northeast,2013,Ages 18-85+,237,5651,4.19
-Cut/pierce,Northeast,2013,Ages 18-85+,152,5651,2.69
-"Other Spec., classifiable",Northeast,2013,Ages 18-85+,135,5651,2.39
-Drowning,Northeast,2013,Ages 18-85+,86,5651,1.52
-Fire/burn,Northeast,2013,Ages 18-85+,40,5651,0.71
-Transportation- Related,Northeast,2013,Ages 18-85+,23,5651,0.41
-"Other Spec., NEC",Northeast,2013,Ages 18-85+,21,5651,0.37
-Unspecified,Northeast,2013,Ages 18-85+,10,5651,0.18
-Firearm,South,2013,Ages 18-85+,9347,15451,60.49
-Suffocation,South,2013,Ages 18-85+,3002,15451,19.43
-Poisoning,South,2013,Ages 18-85+,2096,15451,13.57
-Cut/pierce,South,2013,Ages 18-85+,262,15451,1.7
-Fall,South,2013,Ages 18-85+,245,15451,1.59
-Drowning,South,2013,Ages 18-85+,150,15451,0.97
-"Other Spec., classifiable",South,2013,Ages 18-85+,128,15451,0.83
-"Other Spec., NEC",South,2013,Ages 18-85+,71,15451,0.46
-Fire/burn,South,2013,Ages 18-85+,64,15451,0.41
-Transportation- Related,South,2013,Ages 18-85+,55,15451,0.36
-Unspecified,South,2013,Ages 18-85+,31,15451,0.2
-Firearm,Midwest,2013,Ages 18-85+,4420,8620,51.28
-Suffocation,Midwest,2013,Ages 18-85+,2169,8620,25.16
-Poisoning,Midwest,2013,Ages 18-85+,1428,8620,16.57
-Cut/pierce,Midwest,2013,Ages 18-85+,156,8620,1.81
-Fall,Midwest,2013,Ages 18-85+,149,8620,1.73
-"Other Spec., classifiable",Midwest,2013,Ages 18-85+,96,8620,1.11
-Drowning,Midwest,2013,Ages 18-85+,75,8620,0.87
-Transportation- Related,Midwest,2013,Ages 18-85+,54,8620,0.63
-Fire/burn,Midwest,2013,Ages 18-85+,31,8620,0.36
-"Other Spec., NEC",Midwest,2013,Ages 18-85+,27,8620,0.31
-Unspecified,Midwest,2013,Ages 18-85+,15,8620,0.17
-Firearm,West,2013,Ages 18-85+,4864,10172,47.82
-Suffocation,West,2013,Ages 18-85+,2456,10172,24.14
-Poisoning,West,2013,Ages 18-85+,1953,10172,19.2
-Fall,West,2013,Ages 18-85+,324,10172,3.19
-Cut/pierce,West,2013,Ages 18-85+,212,10172,2.08
-"Other Spec., classifiable",West,2013,Ages 18-85+,145,10172,1.43
-Drowning,West,2013,Ages 18-85+,82,10172,0.81
-Transportation- Related,West,2013,Ages 18-85+,51,10172,0.5
-Fire/burn,West,2013,Ages 18-85+,36,10172,0.35
-"Other Spec., NEC",West,2013,Ages 18-85+,40,10172,0.39
-Unspecified,West,2013,Ages 18-85+,9,10172,0.09
-Firearm,United States,2014,Ages 18-85+,20853,41477,50.28
-Suffocation,United States,2014,Ages 18-85+,10730,41477,25.87
-Poisoning,United States,2014,Ages 18-85+,6742,41477,16.25
-Fall,United States,2014,Ages 18-85+,971,41477,2.34
-Cut/pierce,United States,2014,Ages 18-85+,739,41477,1.78
-"Other Spec., classifiable",United States,2014,Ages 18-85+,482,41477,1.16
-Drowning,United States,2014,Ages 18-85+,367,41477,0.88
-Transportation- Related,United States,2014,Ages 18-85+,174,41477,0.42
-"Other Spec., NEC",United States,2014,Ages 18-85+,162,41477,0.39
-Fire/burn,United States,2014,Ages 18-85+,178,41477,0.43
-Unspecified,United States,2014,Ages 18-85+,79,41477,0.19
-Firearm,Northeast,2014,Ages 18-85+,2089,5815,35.92
-Suffocation,Northeast,2014,Ages 18-85+,1966,5815,33.81
-Poisoning,Northeast,2014,Ages 18-85+,1039,5815,17.87
-Fall,Northeast,2014,Ages 18-85+,255,5815,4.39
-Cut/pierce,Northeast,2014,Ages 18-85+,134,5815,2.3
-"Other Spec., classifiable",Northeast,2014,Ages 18-85+,115,5815,1.98
-Drowning,Northeast,2014,Ages 18-85+,101,5815,1.74
-"Other Spec., NEC",Northeast,2014,Ages 18-85+,34,5815,0.58
-Fire/burn,Northeast,2014,Ages 18-85+,33,5815,0.57
-Transportation- Related,Northeast,2014,Ages 18-85+,28,5815,0.48
-Unspecified,Northeast,2014,Ages 18-85+,21,5815,0.36
-Firearm,South,2014,Ages 18-85+,9429,16212,58.16
-Suffocation,South,2014,Ages 18-85+,3507,16212,21.63
-Poisoning,South,2014,Ages 18-85+,2335,16212,14.4
-Cut/pierce,South,2014,Ages 18-85+,264,16212,1.63
-Fall,South,2014,Ages 18-85+,247,16212,1.52
-"Other Spec., classifiable",South,2014,Ages 18-85+,114,16212,0.7
-Drowning,South,2014,Ages 18-85+,111,16212,0.68
-"Other Spec., NEC",South,2014,Ages 18-85+,53,16212,0.33
-Fire/burn,South,2014,Ages 18-85+,59,16212,0.36
-Transportation- Related,South,2014,Ages 18-85+,56,16212,0.35
-Unspecified,South,2014,Ages 18-85+,37,16212,0.23
-Firearm,Midwest,2014,Ages 18-85+,4309,8702,49.52
-Suffocation,Midwest,2014,Ages 18-85+,2388,8702,27.44
-Poisoning,Midwest,2014,Ages 18-85+,1441,8702,16.56
-Fall,Midwest,2014,Ages 18-85+,141,8702,1.62
-Cut/pierce,Midwest,2014,Ages 18-85+,124,8702,1.42
-"Other Spec., classifiable",Midwest,2014,Ages 18-85+,109,8702,1.25
-Drowning,Midwest,2014,Ages 18-85+,71,8702,0.82
-Transportation- Related,Midwest,2014,Ages 18-85+,41,8702,0.47
-Fire/burn,Midwest,2014,Ages 18-85+,37,8702,0.43
-"Other Spec., NEC",Midwest,2014,Ages 18-85+,27,8702,0.31
-Unspecified,Midwest,2014,Ages 18-85+,14,8702,0.16
-Firearm,West,2014,Ages 18-85+,5026,10748,46.76
-Suffocation,West,2014,Ages 18-85+,2869,10748,26.69
-Poisoning,West,2014,Ages 18-85+,1927,10748,17.93
-Fall,West,2014,Ages 18-85+,328,10748,3.05
-Cut/pierce,West,2014,Ages 18-85+,217,10748,2.02
-"Other Spec., classifiable",West,2014,Ages 18-85+,144,10748,1.34
-Drowning,West,2014,Ages 18-85+,84,10748,0.78
-"Other Spec., NEC",West,2014,Ages 18-85+,48,10748,0.45
-Transportation- Related,West,2014,Ages 18-85+,49,10748,0.46
-Fire/burn,West,2014,Ages 18-85+,49,10748,0.46
-Unspecified,West,2014,Ages 18-85+,7,10748,0.07
-Firearm,United States,2015,Ages 18-85+,21449,42788,50.13
-Suffocation,United States,2015,Ages 18-85+,11195,42788,26.16
-Poisoning,United States,2015,Ages 18-85+,6732,42788,15.73
-Fall,United States,2015,Ages 18-85+,981,42788,2.29
-Cut/pierce,United States,2015,Ages 18-85+,761,42788,1.78
-"Other Spec., classifiable",United States,2015,Ages 18-85+,582,42788,1.36
-Drowning,United States,2015,Ages 18-85+,496,42788,1.16
-Fire/burn,United States,2015,Ages 18-85+,181,42788,0.42
-Transportation- Related,United States,2015,Ages 18-85+,168,42788,0.39
-"Other Spec., NEC",United States,2015,Ages 18-85+,153,42788,0.36
-Unspecified,United States,2015,Ages 18-85+,90,42788,0.21
-Firearm,Northeast,2015,Ages 18-85+,2059,5912,34.83
-Suffocation,Northeast,2015,Ages 18-85+,1971,5912,33.34
-Poisoning,Northeast,2015,Ages 18-85+,1102,5912,18.64
-Fall,Northeast,2015,Ages 18-85+,270,5912,4.57
-Cut/pierce,Northeast,2015,Ages 18-85+,167,5912,2.82
-"Other Spec., classifiable",Northeast,2015,Ages 18-85+,127,5912,2.15
-Drowning,Northeast,2015,Ages 18-85+,127,5912,2.15
-Transportation- Related,Northeast,2015,Ages 18-85+,23,5912,0.39
-"Other Spec., NEC",Northeast,2015,Ages 18-85+,21,5912,0.36
-Fire/burn,Northeast,2015,Ages 18-85+,30,5912,0.51
-Unspecified,Northeast,2015,Ages 18-85+,15,5912,0.25
-Firearm,South,2015,Ages 18-85+,9846,16841,58.46
-Suffocation,South,2015,Ages 18-85+,3729,16841,22.14
-Poisoning,South,2015,Ages 18-85+,2238,16841,13.29
-Cut/pierce,South,2015,Ages 18-85+,243,16841,1.44
-Fall,South,2015,Ages 18-85+,246,16841,1.46
-Drowning,South,2015,Ages 18-85+,190,16841,1.13
-"Other Spec., classifiable",South,2015,Ages 18-85+,158,16841,0.94
-Fire/burn,South,2015,Ages 18-85+,63,16841,0.37
-"Other Spec., NEC",South,2015,Ages 18-85+,55,16841,0.33
-Transportation- Related,South,2015,Ages 18-85+,43,16841,0.26
-Unspecified,South,2015,Ages 18-85+,30,16841,0.18
-Firearm,Midwest,2015,Ages 18-85+,4458,9131,48.82
-Suffocation,Midwest,2015,Ages 18-85+,2522,9131,27.62
-Poisoning,Midwest,2015,Ages 18-85+,1504,9131,16.47
-Cut/pierce,Midwest,2015,Ages 18-85+,152,9131,1.66
-Fall,Midwest,2015,Ages 18-85+,131,9131,1.43
-"Other Spec., classifiable",Midwest,2015,Ages 18-85+,121,9131,1.33
-Drowning,Midwest,2015,Ages 18-85+,92,9131,1.01
-Transportation- Related,Midwest,2015,Ages 18-85+,48,9131,0.53
-Fire/burn,Midwest,2015,Ages 18-85+,44,9131,0.48
-"Other Spec., NEC",Midwest,2015,Ages 18-85+,34,9131,0.37
-Unspecified,Midwest,2015,Ages 18-85+,25,9131,0.27
-Firearm,West,2015,Ages 18-85+,5086,10904,46.64
-Suffocation,West,2015,Ages 18-85+,2973,10904,27.27
-Poisoning,West,2015,Ages 18-85+,1888,10904,17.31
-Fall,West,2015,Ages 18-85+,334,10904,3.06
-Cut/pierce,West,2015,Ages 18-85+,199,10904,1.83
-"Other Spec., classifiable",West,2015,Ages 18-85+,176,10904,1.61
-Drowning,West,2015,Ages 18-85+,87,10904,0.8
-Transportation- Related,West,2015,Ages 18-85+,54,10904,0.5
-Fire/burn,West,2015,Ages 18-85+,44,10904,0.4
-"Other Spec., NEC",West,2015,Ages 18-85+,43,10904,0.39
-Unspecified,West,2015,Ages 18-85+,20,10904,0.18
-Firearm,United States,2016,Ages 18-85+,22303,43426,51.36
-Suffocation,United States,2016,Ages 18-85+,10906,43426,25.11
-Poisoning,United States,2016,Ages 18-85+,6623,43426,15.25
-Fall,United States,2016,Ages 18-85+,1077,43426,2.48
-Cut/pierce,United States,2016,Ages 18-85+,860,43426,1.98
-"Other Spec., classifiable",United States,2016,Ages 18-85+,572,43426,1.32
-Drowning,United States,2016,Ages 18-85+,485,43426,1.12
-"Other Spec., NEC",United States,2016,Ages 18-85+,185,43426,0.43
-Fire/burn,United States,2016,Ages 18-85+,185,43426,0.43
-Transportation- Related,United States,2016,Ages 18-85+,157,43426,0.36
-Unspecified,United States,2016,Ages 18-85+,73,43426,0.17
-Firearm,Northeast,2016,Ages 18-85+,2176,5888,36.96
-Suffocation,Northeast,2016,Ages 18-85+,1852,5888,31.45
-Poisoning,Northeast,2016,Ages 18-85+,1103,5888,18.73
-Fall,Northeast,2016,Ages 18-85+,273,5888,4.64
-Cut/pierce,Northeast,2016,Ages 18-85+,155,5888,2.63
-"Other Spec., classifiable",Northeast,2016,Ages 18-85+,127,5888,2.16
-Drowning,Northeast,2016,Ages 18-85+,107,5888,1.82
-Fire/burn,Northeast,2016,Ages 18-85+,32,5888,0.54
-"Other Spec., NEC",Northeast,2016,Ages 18-85+,34,5888,0.58
-Unspecified,Northeast,2016,Ages 18-85+,16,5888,0.27
-Transportation- Related,Northeast,2016,Ages 18-85+,13,5888,0.22
-Firearm,South,2016,Ages 18-85+,10104,17011,59.4
-Suffocation,South,2016,Ages 18-85+,3601,17011,21.17
-Poisoning,South,2016,Ages 18-85+,2209,17011,12.99
-Cut/pierce,South,2016,Ages 18-85+,282,17011,1.66
-Fall,South,2016,Ages 18-85+,279,17011,1.64
-"Other Spec., classifiable",South,2016,Ages 18-85+,143,17011,0.84
-Drowning,South,2016,Ages 18-85+,175,17011,1.03
-"Other Spec., NEC",South,2016,Ages 18-85+,74,17011,0.44
-Fire/burn,South,2016,Ages 18-85+,65,17011,0.38
-Transportation- Related,South,2016,Ages 18-85+,51,17011,0.3
-Unspecified,South,2016,Ages 18-85+,28,17011,0.16
-Firearm,Midwest,2016,Ages 18-85+,4784,9402,50.88
-Suffocation,Midwest,2016,Ages 18-85+,2514,9402,26.74
-Poisoning,Midwest,2016,Ages 18-85+,1457,9402,15.5
-Cut/pierce,Midwest,2016,Ages 18-85+,194,9402,2.06
-Fall,Midwest,2016,Ages 18-85+,141,9402,1.5
-"Other Spec., classifiable",Midwest,2016,Ages 18-85+,109,9402,1.16
-Drowning,Midwest,2016,Ages 18-85+,88,9402,0.94
-Fire/burn,Midwest,2016,Ages 18-85+,50,9402,0.53
-Transportation- Related,Midwest,2016,Ages 18-85+,38,9402,0.4
-"Other Spec., NEC",Midwest,2016,Ages 18-85+,27,9402,0.29
-Firearm,West,2016,Ages 18-85+,5239,11105,47.18
-Suffocation,West,2016,Ages 18-85+,2939,11105,26.47
-Poisoning,West,2016,Ages 18-85+,1854,11105,16.7
-Fall,West,2016,Ages 18-85+,384,11105,3.46
-Cut/pierce,West,2016,Ages 18-85+,229,11105,2.06
-"Other Spec., classifiable",West,2016,Ages 18-85+,193,11105,1.74
-Drowning,West,2016,Ages 18-85+,115,11105,1.04
-Transportation- Related,West,2016,Ages 18-85+,55,11105,0.5
-"Other Spec., NEC",West,2016,Ages 18-85+,50,11105,0.45
-Fire/burn,West,2016,Ages 18-85+,38,11105,0.34
-Unspecified,West,2016,Ages 18-85+,9,11105,0.08
+Cause of Death,State,Year,Deaths
+Firearm,United States,2005,16589
+Suffocation,United States,2005,6740
+Poisoning,United States,2005,5683
+Fall,United States,2005,671
+Cut/pierce,United States,2005,589
+Drowning,United States,2005,372
+Fire/burn,United States,2005,157
+Transportation- Related,United States,2005,104
+Firearm,Northeast,2005,1788
+Suffocation,Northeast,2005,1235
+Poisoning,Northeast,2005,744
+Fall,Northeast,2005,178
+Cut/pierce,Northeast,2005,114
+Drowning,Northeast,2005,72
+Fire/burn,Northeast,2005,32
+Transportation- Related,Northeast,2005,5
+Firearm,South,2005,7323
+Suffocation,South,2005,2220
+Poisoning,South,2005,1932
+Cut/pierce,South,2005,204
+Fall,South,2005,176
+Drowning,South,2005,128
+Fire/burn,South,2005,52
+Transportation- Related,South,2005,25
+Firearm,Midwest,2005,3540
+Suffocation,Midwest,2005,1542
+Poisoning,Midwest,2005,1432
+Cut/pierce,Midwest,2005,107
+Fall,Midwest,2005,105
+Drowning,Midwest,2005,75
+Fire/burn,Midwest,2005,36
+Transportation- Related,Midwest,2005,34
+Firearm,West,2005,3938
+Suffocation,West,2005,1743
+Poisoning,West,2005,1575
+Fall,West,2005,212
+Cut/pierce,West,2005,164
+Drowning,West,2005,97
+Transportation- Related,West,2005,40
+Fire/burn,West,2005,37
+Firearm,United States,2006,16511
+Suffocation,United States,2006,7024
+Poisoning,United States,2006,6059
+Fall,United States,2006,710
+Cut/pierce,United States,2006,595
+Drowning,United States,2006,395
+Fire/burn,United States,2006,190
+Transportation- Related,United States,2006,130
+Firearm,Northeast,2006,1698
+Suffocation,Northeast,2006,1317
+Poisoning,Northeast,2006,865
+Fall,Northeast,2006,180
+Cut/pierce,Northeast,2006,112
+Drowning,Northeast,2006,86
+Fire/burn,Northeast,2006,31
+Transportation- Related,Northeast,2006,16
+Firearm,South,2006,7408
+Suffocation,South,2006,2331
+Poisoning,South,2006,1983
+Cut/pierce,South,2006,200
+Fall,South,2006,186
+Drowning,South,2006,131
+Fire/burn,South,2006,65
+Transportation- Related,South,2006,31
+Firearm,Midwest,2006,3501
+Suffocation,Midwest,2006,1618
+Poisoning,Midwest,2006,1509
+Cut/pierce,Midwest,2006,113
+Fall,Midwest,2006,115
+Drowning,Midwest,2006,83
+Fire/burn,Midwest,2006,55
+Transportation- Related,Midwest,2006,42
+Firearm,West,2006,3904
+Suffocation,West,2006,1758
+Poisoning,West,2006,1702
+Fall,West,2006,229
+Cut/pierce,West,2006,170
+Drowning,West,2006,95
+Transportation- Related,West,2006,41
+Fire/burn,West,2006,39
+Firearm,United States,2007,17025
+Suffocation,United States,2007,7744
+Poisoning,United States,2007,6298
+Fall,United States,2007,724
+Cut/pierce,United States,2007,615
+Drowning,United States,2007,353
+Fire/burn,United States,2007,155
+Transportation- Related,United States,2007,127
+Firearm,Northeast,2007,1721
+Suffocation,Northeast,2007,1422
+Poisoning,Northeast,2007,919
+Fall,Northeast,2007,188
+Cut/pierce,Northeast,2007,125
+Drowning,Northeast,2007,77
+Fire/burn,Northeast,2007,16
+Transportation- Related,Northeast,2007,11
+Firearm,South,2007,7639
+Suffocation,South,2007,2611
+Poisoning,South,2007,2102
+Cut/pierce,South,2007,192
+Fall,South,2007,152
+Drowning,South,2007,125
+Fire/burn,South,2007,53
+Transportation- Related,South,2007,20
+Firearm,Midwest,2007,3522
+Suffocation,Midwest,2007,1790
+Poisoning,Midwest,2007,1444
+Cut/pierce,Midwest,2007,124
+Fall,Midwest,2007,112
+Drowning,Midwest,2007,65
+Fire/burn,Midwest,2007,47
+Transportation- Related,Midwest,2007,44
+Firearm,West,2007,4143
+Suffocation,West,2007,1921
+Poisoning,West,2007,1833
+Fall,West,2007,272
+Cut/pierce,West,2007,174
+Drowning,West,2007,86
+Transportation- Related,West,2007,52
+Fire/burn,West,2007,39
+Firearm,United States,2008,17862
+Suffocation,United States,2008,8058
+Poisoning,United States,2008,6386
+Cut/pierce,United States,2008,663
+Fall,United States,2008,697
+Drowning,United States,2008,404
+Fire/burn,United States,2008,168
+Transportation- Related,United States,2008,124
+Firearm,Northeast,2008,1826
+Suffocation,Northeast,2008,1523
+Poisoning,Northeast,2008,916
+Fall,Northeast,2008,186
+Cut/pierce,Northeast,2008,127
+Drowning,Northeast,2008,77
+Fire/burn,Northeast,2008,33
+Transportation- Related,Northeast,2008,9
+Firearm,South,2008,8086
+Suffocation,South,2008,2604
+Poisoning,South,2008,2163
+Cut/pierce,South,2008,218
+Fall,South,2008,161
+Drowning,South,2008,164
+Fire/burn,South,2008,65
+Transportation- Related,South,2008,26
+Firearm,Midwest,2008,3696
+Suffocation,Midwest,2008,1845
+Poisoning,Midwest,2008,1449
+Cut/pierce,Midwest,2008,150
+Fall,Midwest,2008,116
+Drowning,Midwest,2008,76
+Transportation- Related,Midwest,2008,42
+Fire/burn,Midwest,2008,36
+Firearm,West,2008,4254
+Suffocation,West,2008,2086
+Poisoning,West,2008,1858
+Fall,West,2008,234
+Cut/pierce,West,2008,168
+Drowning,West,2008,87
+Transportation- Related,West,2008,47
+Fire/burn,West,2008,34
+Firearm,United States,2009,18332
+Suffocation,United States,2009,8441
+Poisoning,United States,2009,6353
+Cut/pierce,United States,2009,669
+Fall,United States,2009,667
+Drowning,United States,2009,383
+Fire/burn,United States,2009,158
+Transportation- Related,United States,2009,98
+Firearm,Northeast,2009,1848
+Suffocation,Northeast,2009,1520
+Poisoning,Northeast,2009,946
+Fall,Northeast,2009,174
+Cut/pierce,Northeast,2009,123
+Drowning,Northeast,2009,79
+Fire/burn,Northeast,2009,23
+Transportation- Related,Northeast,2009,5
+Firearm,South,2009,8375
+Suffocation,South,2009,2813
+Poisoning,South,2009,2176
+Cut/pierce,South,2009,212
+Fall,South,2009,171
+Drowning,South,2009,128
+Fire/burn,South,2009,51
+Transportation- Related,South,2009,25
+Firearm,Midwest,2009,3594
+Suffocation,Midwest,2009,1850
+Poisoning,Midwest,2009,1401
+Cut/pierce,Midwest,2009,136
+Fall,Midwest,2009,102
+Drowning,Midwest,2009,78
+Fire/burn,Midwest,2009,46
+Transportation- Related,Midwest,2009,32
+Firearm,West,2009,4515
+Suffocation,West,2009,2258
+Poisoning,West,2009,1830
+Cut/pierce,West,2009,198
+Fall,West,2009,220
+Drowning,West,2009,98
+Transportation- Related,West,2009,36
+Fire/burn,West,2009,38
+Firearm,United States,2010,19015
+Suffocation,United States,2010,8960
+Poisoning,United States,2010,6548
+Fall,United States,2010,767
+Cut/pierce,United States,2010,671
+Drowning,United States,2010,402
+Fire/burn,United States,2010,130
+Transportation- Related,United States,2010,110
+Firearm,Northeast,2010,1917
+Suffocation,Northeast,2010,1748
+Poisoning,Northeast,2010,969
+Fall,Northeast,2010,198
+Cut/pierce,Northeast,2010,143
+Drowning,Northeast,2010,108
+Fire/burn,Northeast,2010,21
+Transportation- Related,Northeast,2010,13
+Firearm,South,2010,8603
+Suffocation,South,2010,2834
+Poisoning,South,2010,2189
+Cut/pierce,South,2010,194
+Fall,South,2010,193
+Drowning,South,2010,127
+Fire/burn,South,2010,53
+Transportation- Related,South,2010,27
+Firearm,Midwest,2010,3889
+Suffocation,Midwest,2010,2013
+Poisoning,Midwest,2010,1464
+Cut/pierce,Midwest,2010,149
+Fall,Midwest,2010,125
+Drowning,Midwest,2010,73
+Transportation- Related,Midwest,2010,38
+Fire/burn,Midwest,2010,24
+Firearm,West,2010,4606
+Suffocation,West,2010,2365
+Poisoning,West,2010,1926
+Fall,West,2010,251
+Cut/pierce,West,2010,185
+Drowning,West,2010,94
+Transportation- Related,West,2010,32
+Fire/burn,West,2010,32
+Firearm,United States,2011,19537
+Suffocation,United States,2011,9343
+Poisoning,United States,2011,6508
+Fall,United States,2011,791
+Cut/pierce,United States,2011,657
+Drowning,United States,2011,350
+Transportation- Related,United States,2011,142
+Fire/burn,United States,2011,155
+Firearm,Northeast,2011,2020
+Suffocation,Northeast,2011,1793
+Poisoning,Northeast,2011,1036
+Fall,Northeast,2011,182
+Cut/pierce,Northeast,2011,157
+Drowning,Northeast,2011,99
+Fire/burn,Northeast,2011,27
+Transportation- Related,Northeast,2011,23
+Firearm,South,2011,8888
+Suffocation,South,2011,2986
+Poisoning,South,2011,2132
+Cut/pierce,South,2011,188
+Fall,South,2011,206
+Drowning,South,2011,121
+Fire/burn,South,2011,58
+Transportation- Related,South,2011,28
+Firearm,Midwest,2011,3930
+Suffocation,Midwest,2011,2200
+Poisoning,Midwest,2011,1403
+Cut/pierce,Midwest,2011,131
+Fall,Midwest,2011,116
+Drowning,Midwest,2011,61
+Transportation- Related,Midwest,2011,38
+Fire/burn,Midwest,2011,35
+Firearm,West,2011,4699
+Suffocation,West,2011,2364
+Poisoning,West,2011,1937
+Fall,West,2011,287
+Cut/pierce,West,2011,181
+Drowning,West,2011,69
+Transportation- Related,West,2011,53
+Fire/burn,West,2011,35
+Firearm,United States,2012,20206
+Suffocation,United States,2012,9470
+Poisoning,United States,2012,6689
+Fall,United States,2012,934
+Cut/pierce,United States,2012,728
+Drowning,United States,2012,424
+Transportation- Related,United States,2012,161
+Fire/burn,United States,2012,160
+Firearm,Northeast,2012,1999
+Suffocation,Northeast,2012,1740
+Poisoning,Northeast,2012,1042
+Fall,Northeast,2012,256
+Cut/pierce,Northeast,2012,150
+Drowning,Northeast,2012,93
+Transportation- Related,Northeast,2012,26
+Fire/burn,Northeast,2012,32
+Firearm,South,2012,9086
+Suffocation,South,2012,3084
+Poisoning,South,2012,2338
+Cut/pierce,South,2012,235
+Fall,South,2012,216
+Drowning,South,2012,167
+Fire/burn,South,2012,61
+Transportation- Related,South,2012,49
+Firearm,Midwest,2012,4230
+Suffocation,Midwest,2012,2180
+Poisoning,Midwest,2012,1390
+Cut/pierce,Midwest,2012,136
+Fall,Midwest,2012,134
+Drowning,Midwest,2012,79
+Transportation- Related,Midwest,2012,36
+Fire/burn,Midwest,2012,38
+Firearm,West,2012,4891
+Suffocation,West,2012,2466
+Poisoning,West,2012,1919
+Fall,West,2012,328
+Cut/pierce,West,2012,207
+Drowning,West,2012,85
+Transportation- Related,West,2012,50
+Fire/burn,West,2012,29
+Firearm,United States,2013,20681
+Suffocation,United States,2013,9416
+Poisoning,United States,2013,6585
+Fall,United States,2013,955
+Cut/pierce,United States,2013,782
+Drowning,United States,2013,393
+Transportation- Related,United States,2013,183
+Fire/burn,United States,2013,171
+Firearm,Northeast,2013,2050
+Suffocation,Northeast,2013,1789
+Poisoning,Northeast,2013,1108
+Fall,Northeast,2013,237
+Cut/pierce,Northeast,2013,152
+Drowning,Northeast,2013,86
+Fire/burn,Northeast,2013,40
+Transportation- Related,Northeast,2013,23
+Firearm,South,2013,9347
+Suffocation,South,2013,3002
+Poisoning,South,2013,2096
+Cut/pierce,South,2013,262
+Fall,South,2013,245
+Drowning,South,2013,150
+Fire/burn,South,2013,64
+Transportation- Related,South,2013,55
+Firearm,Midwest,2013,4420
+Suffocation,Midwest,2013,2169
+Poisoning,Midwest,2013,1428
+Cut/pierce,Midwest,2013,156
+Fall,Midwest,2013,149
+Drowning,Midwest,2013,75
+Transportation- Related,Midwest,2013,54
+Fire/burn,Midwest,2013,31
+Firearm,West,2013,4864
+Suffocation,West,2013,2456
+Poisoning,West,2013,1953
+Fall,West,2013,324
+Cut/pierce,West,2013,212
+Drowning,West,2013,82
+Transportation- Related,West,2013,51
+Fire/burn,West,2013,36
+Firearm,United States,2014,20853
+Suffocation,United States,2014,10730
+Poisoning,United States,2014,6742
+Fall,United States,2014,971
+Cut/pierce,United States,2014,739
+Drowning,United States,2014,367
+Transportation- Related,United States,2014,174
+Fire/burn,United States,2014,178
+Firearm,Northeast,2014,2089
+Suffocation,Northeast,2014,1966
+Poisoning,Northeast,2014,1039
+Fall,Northeast,2014,255
+Cut/pierce,Northeast,2014,134
+Drowning,Northeast,2014,101
+Fire/burn,Northeast,2014,33
+Transportation- Related,Northeast,2014,28
+Firearm,South,2014,9429
+Suffocation,South,2014,3507
+Poisoning,South,2014,2335
+Cut/pierce,South,2014,264
+Fall,South,2014,247
+Drowning,South,2014,111
+Fire/burn,South,2014,59
+Transportation- Related,South,2014,56
+Firearm,Midwest,2014,4309
+Suffocation,Midwest,2014,2388
+Poisoning,Midwest,2014,1441
+Fall,Midwest,2014,141
+Cut/pierce,Midwest,2014,124
+Drowning,Midwest,2014,71
+Transportation- Related,Midwest,2014,41
+Fire/burn,Midwest,2014,37
+Firearm,West,2014,5026
+Suffocation,West,2014,2869
+Poisoning,West,2014,1927
+Fall,West,2014,328
+Cut/pierce,West,2014,217
+Drowning,West,2014,84
+Transportation- Related,West,2014,49
+Fire/burn,West,2014,49
+Firearm,United States,2015,21449
+Suffocation,United States,2015,11195
+Poisoning,United States,2015,6732
+Fall,United States,2015,981
+Cut/pierce,United States,2015,761
+Drowning,United States,2015,496
+Fire/burn,United States,2015,181
+Transportation- Related,United States,2015,168
+Firearm,Northeast,2015,2059
+Suffocation,Northeast,2015,1971
+Poisoning,Northeast,2015,1102
+Fall,Northeast,2015,270
+Cut/pierce,Northeast,2015,167
+Drowning,Northeast,2015,127
+Transportation- Related,Northeast,2015,23
+Fire/burn,Northeast,2015,30
+Firearm,South,2015,9846
+Suffocation,South,2015,3729
+Poisoning,South,2015,2238
+Cut/pierce,South,2015,243
+Fall,South,2015,246
+Drowning,South,2015,190
+Fire/burn,South,2015,63
+Transportation- Related,South,2015,43
+Firearm,Midwest,2015,4458
+Suffocation,Midwest,2015,2522
+Poisoning,Midwest,2015,1504
+Cut/pierce,Midwest,2015,152
+Fall,Midwest,2015,131
+Drowning,Midwest,2015,92
+Transportation- Related,Midwest,2015,48
+Fire/burn,Midwest,2015,44
+Firearm,West,2015,5086
+Suffocation,West,2015,2973
+Poisoning,West,2015,1888
+Fall,West,2015,334
+Cut/pierce,West,2015,199
+Drowning,West,2015,87
+Transportation- Related,West,2015,54
+Fire/burn,West,2015,44
+Firearm,United States,2016,22303
+Suffocation,United States,2016,10906
+Poisoning,United States,2016,6623
+Fall,United States,2016,1077
+Cut/pierce,United States,2016,860
+Drowning,United States,2016,485
+Fire/burn,United States,2016,185
+Transportation- Related,United States,2016,157
+Firearm,Northeast,2016,2176
+Suffocation,Northeast,2016,1852
+Poisoning,Northeast,2016,1103
+Fall,Northeast,2016,273
+Cut/pierce,Northeast,2016,155
+Drowning,Northeast,2016,107
+Fire/burn,Northeast,2016,32
+Transportation- Related,Northeast,2016,13
+Firearm,South,2016,10104
+Suffocation,South,2016,3601
+Poisoning,South,2016,2209
+Cut/pierce,South,2016,282
+Fall,South,2016,279
+Drowning,South,2016,175
+Fire/burn,South,2016,65
+Transportation- Related,South,2016,51
+Firearm,Midwest,2016,4784
+Suffocation,Midwest,2016,2514
+Poisoning,Midwest,2016,1457
+Cut/pierce,Midwest,2016,194
+Fall,Midwest,2016,141
+Drowning,Midwest,2016,88
+Fire/burn,Midwest,2016,50
+Transportation- Related,Midwest,2016,38
+Firearm,West,2016,5239
+Suffocation,West,2016,2939
+Poisoning,West,2016,1854
+Fall,West,2016,384
+Cut/pierce,West,2016,229
+Drowning,West,2016,115
+Transportation- Related,West,2016,55
+Fire/burn,West,2016,38
+Unspecified,Midwest,2005,158
+Unspecified,Midwest,2006,155
+Unspecified,Midwest,2007,137
+Unspecified,Midwest,2008,154
+Unspecified,Midwest,2009,142
+Unspecified,Midwest,2010,160
+Unspecified,Midwest,2011,184
+Unspecified,Midwest,2012,152
+Unspecified,Midwest,2013,138
+Unspecified,Midwest,2014,150
+Unspecified,Midwest,2015,180
+Unspecified,Midwest,2016,136
+Unspecified,Northeast,2005,130
+Unspecified,Northeast,2006,123
+Unspecified,Northeast,2007,168
+Unspecified,Northeast,2008,140
+Unspecified,Northeast,2009,156
+Unspecified,Northeast,2010,155
+Unspecified,Northeast,2011,204
+Unspecified,Northeast,2012,131
+Unspecified,Northeast,2013,166
+Unspecified,Northeast,2014,170
+Unspecified,Northeast,2015,163
+Unspecified,Northeast,2016,177
+Unspecified,South,2005,225
+Unspecified,South,2006,255
+Unspecified,South,2007,203
+Unspecified,South,2008,194
+Unspecified,South,2009,225
+Unspecified,South,2010,224
+Unspecified,South,2011,282
+Unspecified,South,2012,190
+Unspecified,South,2013,230
+Unspecified,South,2014,204
+Unspecified,South,2015,243
+Unspecified,South,2016,245
+Unspecified,United States,2005,705
+Unspecified,United States,2006,737
+Unspecified,United States,2007,712
+Unspecified,United States,2008,683
+Unspecified,United States,2009,737
+Unspecified,United States,2010,745
+Unspecified,United States,2011,895
+Unspecified,United States,2012,654
+Unspecified,United States,2013,728
+Unspecified,United States,2014,723
+Unspecified,United States,2015,825
+Unspecified,United States,2016,830
+Unspecified,West,2005,192
+Unspecified,West,2006,204
+Unspecified,West,2007,204
+Unspecified,West,2008,195
+Unspecified,West,2009,214
+Unspecified,West,2010,206
+Unspecified,West,2011,225
+Unspecified,West,2012,181
+Unspecified,West,2013,194
+Unspecified,West,2014,199
+Unspecified,West,2015,239
+Unspecified,West,2016,252
