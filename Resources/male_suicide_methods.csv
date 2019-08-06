@@ -1,0 +1,674 @@
+Cause of Death,Deaths,Percent,State,First Year,Last Year,Race/Ethnicty,Sex,Age Group
+Firearm,14559,57.93935053,United States,2005,2005,"All Races,",Males,Ages 18-85+
+Suffocation,5528,21.99936326,United States,2005,2005,"All Races,",Males,Ages 18-85+
+Poisoning,3082,12.26520216,United States,2005,2005,"All Races,",Males,Ages 18-85+
+Fall,489,1.946036294,United States,2005,2005,"All Races,",Males,Ages 18-85+
+Cut/pierce,486,1.934097421,United States,2005,2005,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",259,1.0307227,United States,2005,2005,"All Races,",Males,Ages 18-85+
+Drowning,255,1.014804202,United States,2005,2005,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",159,0.632760267,United States,2005,2005,"All Races,",Males,Ages 18-85+
+Unspecified,130,0.517351162,United States,2005,2005,"All Races,",Males,Ages 18-85+
+Fire/burn,105,0.417860554,United States,2005,2005,"All Races,",Males,Ages 18-85+
+Transportation- Related,76,0.302451449,United States,2005,2005,"All Races,",Males,Ages 18-85+
+Firearm,1642,47.63562518,Northeast,2005,2005,"All Races,",Males,Ages 18-85+
+Suffocation,1012,29.35886278,Northeast,2005,2005,"All Races,",Males,Ages 18-85+
+Poisoning,395,11.45923992,Northeast,2005,2005,"All Races,",Males,Ages 18-85+
+Fall,126,3.65535248,Northeast,2005,2005,"All Races,",Males,Ages 18-85+
+Cut/pierce,96,2.785030461,Northeast,2005,2005,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",65,1.885697708,Northeast,2005,2005,"All Races,",Males,Ages 18-85+
+Drowning,52,1.508558167,Northeast,2005,2005,"All Races,",Males,Ages 18-85+
+Fire/burn,22,0.638236147,Northeast,2005,2005,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",20,0.580214679,Northeast,2005,2005,"All Races,",Males,Ages 18-85+
+Unspecified,14,0.406150276,Northeast,2005,2005,"All Races,",Males,Ages 18-85+
+Transportation- Related,3,0.087032202,Northeast,2005,2005,"All Races,",Males,Ages 18-85+
+Firearm,6241,64.45982235,South,2005,2005,"All Races,",Males,Ages 18-85+
+Suffocation,1829,18.89072506,South,2005,2005,"All Races,",Males,Ages 18-85+
+Poisoning,1001,10.33877298,South,2005,2005,"All Races,",Males,Ages 18-85+
+Cut/pierce,171,1.766164016,South,2005,2005,"All Races,",Males,Ages 18-85+
+Fall,122,1.260070233,South,2005,2005,"All Races,",Males,Ages 18-85+
+Drowning,88,0.908903119,South,2005,2005,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",74,0.764304896,South,2005,2005,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",65,0.671348895,South,2005,2005,"All Races,",Males,Ages 18-85+
+Unspecified,42,0.433794671,South,2005,2005,"All Races,",Males,Ages 18-85+
+Fire/burn,31,0.320181781,South,2005,2005,"All Races,",Males,Ages 18-85+
+Transportation- Related,18,0.185912002,South,2005,2005,"All Races,",Males,Ages 18-85+
+Firearm,3188,55.86122306,Midwest,2005,2005,"All Races,",Males,Ages 18-85+
+Suffocation,1297,22.72647626,Midwest,2005,2005,"All Races,",Males,Ages 18-85+
+Poisoning,819,14.35079727,Midwest,2005,2005,"All Races,",Males,Ages 18-85+
+Cut/pierce,89,1.559488348,Midwest,2005,2005,"All Races,",Males,Ages 18-85+
+Fall,83,1.454354302,Midwest,2005,2005,"All Races,",Males,Ages 18-85+
+Drowning,53,0.928684072,Midwest,2005,2005,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",50,0.876117049,Midwest,2005,2005,"All Races,",Males,Ages 18-85+
+Unspecified,47,0.823550026,Midwest,2005,2005,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",29,0.508147889,Midwest,2005,2005,"All Races,",Males,Ages 18-85+
+Fire/burn,26,0.455580866,Midwest,2005,2005,"All Races,",Males,Ages 18-85+
+Transportation- Related,26,0.455580866,Midwest,2005,2005,"All Races,",Males,Ages 18-85+
+Firearm,3488,55.43547362,West,2005,2005,"All Races,",Males,Ages 18-85+
+Suffocation,1390,22.09154482,West,2005,2005,"All Races,",Males,Ages 18-85+
+Poisoning,867,13.77940242,West,2005,2005,"All Races,",Males,Ages 18-85+
+Fall,158,2.511125238,West,2005,2005,"All Races,",Males,Ages 18-85+
+Cut/pierce,130,2.066115702,West,2005,2005,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",70,1.11252384,West,2005,2005,"All Races,",Males,Ages 18-85+
+Drowning,62,0.985378258,West,2005,2005,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",45,0.715193897,West,2005,2005,"All Races,",Males,Ages 18-85+
+Transportation- Related,29,0.460902734,West,2005,2005,"All Races,",Males,Ages 18-85+
+Unspecified,27,0.429116338,West,2005,2005,"All Races,",Males,Ages 18-85+
+Fire/burn,26,0.41322314,West,2005,2005,"All Races,",Males,Ages 18-85+
+Firearm,14415,56.3129932,United States,2006,2006,"All Races,",Males,Ages 18-85+
+Suffocation,5851,22.85725447,United States,2006,2006,"All Races,",Males,Ages 18-85+
+Poisoning,3268,12.76662239,United States,2006,2006,"All Races,",Males,Ages 18-85+
+Fall,524,2.047034925,United States,2006,2006,"All Races,",Males,Ages 18-85+
+Cut/pierce,504,1.968903821,United States,2006,2006,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",257,1.003984686,United States,2006,2006,"All Races,",Males,Ages 18-85+
+Drowning,247,0.964919134,United States,2006,2006,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",191,0.746152043,United States,2006,2006,"All Races,",Males,Ages 18-85+
+Fire/burn,137,0.535198062,United States,2006,2006,"All Races,",Males,Ages 18-85+
+Unspecified,106,0.414094851,United States,2006,2006,"All Races,",Males,Ages 18-85+
+Transportation- Related,97,0.378935854,United States,2006,2006,"All Races,",Males,Ages 18-85+
+Struck by or Against,1,0.003906555,United States,2006,2006,"All Races,",Males,Ages 18-85+
+Firearm,1560,43.96843292,Northeast,2006,2006,"All Races,",Males,Ages 18-85+
+Suffocation,1091,30.74971815,Northeast,2006,2006,"All Races,",Males,Ages 18-85+
+Poisoning,494,13.92333709,Northeast,2006,2006,"All Races,",Males,Ages 18-85+
+Fall,124,3.494926719,Northeast,2006,2006,"All Races,",Males,Ages 18-85+
+Cut/pierce,92,2.593010147,Northeast,2006,2006,"All Races,",Males,Ages 18-85+
+Drowning,59,1.662908681,Northeast,2006,2006,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",59,1.662908681,Northeast,2006,2006,"All Races,",Males,Ages 18-85+
+Fire/burn,23,0.648252537,Northeast,2006,2006,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",23,0.648252537,Northeast,2006,2006,"All Races,",Males,Ages 18-85+
+Unspecified,13,0.366403608,Northeast,2006,2006,"All Races,",Males,Ages 18-85+
+Transportation- Related,10,0.281848929,Northeast,2006,2006,"All Races,",Males,Ages 18-85+
+Firearm,6285,63.42078708,South,2006,2006,"All Races,",Males,Ages 18-85+
+Suffocation,1961,19.78809284,South,2006,2006,"All Races,",Males,Ages 18-85+
+Poisoning,1012,10.21190716,South,2006,2006,"All Races,",Males,Ages 18-85+
+Cut/pierce,172,1.735620585,South,2006,2006,"All Races,",Males,Ages 18-85+
+Fall,140,1.41271443,South,2006,2006,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",83,0.837537841,South,2006,2006,"All Races,",Males,Ages 18-85+
+Drowning,77,0.776992936,South,2006,2006,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",66,0.665993946,South,2006,2006,"All Races,",Males,Ages 18-85+
+Fire/burn,46,0.464177598,South,2006,2006,"All Races,",Males,Ages 18-85+
+Unspecified,44,0.443995964,South,2006,2006,"All Races,",Males,Ages 18-85+
+Transportation- Related,23,0.232088799,South,2006,2006,"All Races,",Males,Ages 18-85+
+Struck by or Against,1,0.010090817,South,2006,2006,"All Races,",Males,Ages 18-85+
+Firearm,3137,54.25458319,Midwest,2006,2006,"All Races,",Males,Ages 18-85+
+Suffocation,1359,23.50397786,Midwest,2006,2006,"All Races,",Males,Ages 18-85+
+Poisoning,868,15.01210654,Midwest,2006,2006,"All Races,",Males,Ages 18-85+
+Cut/pierce,95,1.643030093,Midwest,2006,2006,"All Races,",Males,Ages 18-85+
+Fall,84,1.452784504,Midwest,2006,2006,"All Races,",Males,Ages 18-85+
+Drowning,55,0.951227949,Midwest,2006,2006,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",52,0.899342788,Midwest,2006,2006,"All Races,",Males,Ages 18-85+
+Fire/burn,42,0.726392252,Midwest,2006,2006,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",36,0.62262193,Midwest,2006,2006,"All Races,",Males,Ages 18-85+
+Transportation- Related,33,0.570736769,Midwest,2006,2006,"All Races,",Males,Ages 18-85+
+Unspecified,21,0.363196126,Midwest,2006,2006,"All Races,",Males,Ages 18-85+
+Firearm,3433,53.99496697,West,2006,2006,"All Races,",Males,Ages 18-85+
+Suffocation,1440,22.64863165,West,2006,2006,"All Races,",Males,Ages 18-85+
+Poisoning,894,14.06102548,West,2006,2006,"All Races,",Males,Ages 18-85+
+Fall,176,2.76816609,West,2006,2006,"All Races,",Males,Ages 18-85+
+Cut/pierce,145,2.280591381,West,2006,2006,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",80,1.258257314,West,2006,2006,"All Races,",Males,Ages 18-85+
+Drowning,56,0.88078012,West,2006,2006,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",49,0.770682605,West,2006,2006,"All Races,",Males,Ages 18-85+
+Transportation- Related,31,0.487574709,West,2006,2006,"All Races,",Males,Ages 18-85+
+Unspecified,28,0.44039006,West,2006,2006,"All Races,",Males,Ages 18-85+
+Fire/burn,26,0.408933627,West,2006,2006,"All Races,",Males,Ages 18-85+
+Firearm,14895,55.96468157,United States,2007,2007,"All Races,",Males,Ages 18-85+
+Suffocation,6348,23.85121172,United States,2007,2007,"All Races,",Males,Ages 18-85+
+Poisoning,3376,12.68457637,United States,2007,2007,"All Races,",Males,Ages 18-85+
+Fall,538,2.021416494,United States,2007,2007,"All Races,",Males,Ages 18-85+
+Cut/pierce,489,1.837309788,United States,2007,2007,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",246,0.924290813,United States,2007,2007,"All Races,",Males,Ages 18-85+
+Drowning,234,0.879203457,United States,2007,2007,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",169,0.634980274,United States,2007,2007,"All Races,",Males,Ages 18-85+
+Unspecified,126,0.473417246,United States,2007,2007,"All Races,",Males,Ages 18-85+
+Fire/burn,100,0.375727973,United States,2007,2007,"All Races,",Males,Ages 18-85+
+Transportation- Related,94,0.353184295,United States,2007,2007,"All Races,",Males,Ages 18-85+
+Firearm,1595,43.30708661,Northeast,2007,2007,"All Races,",Males,Ages 18-85+
+Suffocation,1163,31.57751833,Northeast,2007,2007,"All Races,",Males,Ages 18-85+
+Poisoning,495,13.44013033,Northeast,2007,2007,"All Races,",Males,Ages 18-85+
+Fall,132,3.584034754,Northeast,2007,2007,"All Races,",Males,Ages 18-85+
+Cut/pierce,103,2.796633179,Northeast,2007,2007,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",73,1.982079826,Northeast,2007,2007,"All Races,",Males,Ages 18-85+
+Drowning,54,1.466196036,Northeast,2007,2007,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",26,0.705946239,Northeast,2007,2007,"All Races,",Males,Ages 18-85+
+Unspecified,22,0.597339126,Northeast,2007,2007,"All Races,",Males,Ages 18-85+
+Fire/burn,10,0.271517784,Northeast,2007,2007,"All Races,",Males,Ages 18-85+
+Transportation- Related,10,0.271517784,Northeast,2007,2007,"All Races,",Males,Ages 18-85+
+Firearm,6473,63.20054677,South,2007,2007,"All Races,",Males,Ages 18-85+
+Suffocation,2163,21.11892209,South,2007,2007,"All Races,",Males,Ages 18-85+
+Poisoning,1066,10.40812341,South,2007,2007,"All Races,",Males,Ages 18-85+
+Cut/pierce,149,1.454793986,South,2007,2007,"All Races,",Males,Ages 18-85+
+Fall,113,1.103300137,South,2007,2007,"All Races,",Males,Ages 18-85+
+Drowning,79,0.771333724,South,2007,2007,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",58,0.566295645,South,2007,2007,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",57,0.556531927,South,2007,2007,"All Races,",Males,Ages 18-85+
+Unspecified,40,0.390548721,South,2007,2007,"All Races,",Males,Ages 18-85+
+Fire/burn,28,0.273384105,South,2007,2007,"All Races,",Males,Ages 18-85+
+Transportation- Related,16,0.156219488,South,2007,2007,"All Races,",Males,Ages 18-85+
+Firearm,3168,54.01534527,Midwest,2007,2007,"All Races,",Males,Ages 18-85+
+Suffocation,1474,25.13213981,Midwest,2007,2007,"All Races,",Males,Ages 18-85+
+Poisoning,840,14.32225064,Midwest,2007,2007,"All Races,",Males,Ages 18-85+
+Cut/pierce,97,1.653878943,Midwest,2007,2007,"All Races,",Males,Ages 18-85+
+Fall,80,1.36402387,Midwest,2007,2007,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",45,0.767263427,Midwest,2007,2007,"All Races,",Males,Ages 18-85+
+Drowning,41,0.699062234,Midwest,2007,2007,"All Races,",Males,Ages 18-85+
+Fire/burn,34,0.579710145,Midwest,2007,2007,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",29,0.494458653,Midwest,2007,2007,"All Races,",Males,Ages 18-85+
+Unspecified,29,0.494458653,Midwest,2007,2007,"All Races,",Males,Ages 18-85+
+Transportation- Related,28,0.477408355,Midwest,2007,2007,"All Races,",Males,Ages 18-85+
+Firearm,3659,53.61172161,West,2007,2007,"All Races,",Males,Ages 18-85+
+Suffocation,1548,22.68131868,West,2007,2007,"All Races,",Males,Ages 18-85+
+Poisoning,975,14.28571429,West,2007,2007,"All Races,",Males,Ages 18-85+
+Fall,213,3.120879121,West,2007,2007,"All Races,",Males,Ages 18-85+
+Cut/pierce,140,2.051282051,West,2007,2007,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",70,1.025641026,West,2007,2007,"All Races,",Males,Ages 18-85+
+Drowning,60,0.879120879,West,2007,2007,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",57,0.835164835,West,2007,2007,"All Races,",Males,Ages 18-85+
+Transportation- Related,40,0.586080586,West,2007,2007,"All Races,",Males,Ages 18-85+
+Unspecified,35,0.512820513,West,2007,2007,"All Races,",Males,Ages 18-85+
+Fire/burn,28,0.41025641,West,2007,2007,"All Races,",Males,Ages 18-85+
+Firearm,15614,56.31537185,United States,2008,2008,"All Races,",Males,Ages 18-85+
+Suffocation,6639,23.94503354,United States,2008,2008,"All Races,",Males,Ages 18-85+
+Poisoning,3439,12.40352016,United States,2008,2008,"All Races,",Males,Ages 18-85+
+Cut/pierce,549,1.980090889,United States,2008,2008,"All Races,",Males,Ages 18-85+
+Fall,521,1.879102647,United States,2008,2008,"All Races,",Males,Ages 18-85+
+Drowning,242,0.872826949,United States,2008,2008,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",219,0.789872322,United States,2008,2008,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",157,0.5662555,United States,2008,2008,"All Races,",Males,Ages 18-85+
+Unspecified,143,0.515761379,United States,2008,2008,"All Races,",Males,Ages 18-85+
+Fire/burn,109,0.3931328,United States,2008,2008,"All Races,",Males,Ages 18-85+
+Transportation- Related,94,0.339031956,United States,2008,2008,"All Races,",Males,Ages 18-85+
+Firearm,1670,43.4104497,Northeast,2008,2008,"All Races,",Males,Ages 18-85+
+Suffocation,1226,31.86898882,Northeast,2008,2008,"All Races,",Males,Ages 18-85+
+Poisoning,516,13.41304913,Northeast,2008,2008,"All Races,",Males,Ages 18-85+
+Fall,138,3.587210814,Northeast,2008,2008,"All Races,",Males,Ages 18-85+
+Cut/pierce,106,2.755393813,Northeast,2008,2008,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",54,1.403691188,Northeast,2008,2008,"All Races,",Males,Ages 18-85+
+Drowning,51,1.325708344,Northeast,2008,2008,"All Races,",Males,Ages 18-85+
+Unspecified,31,0.805822719,Northeast,2008,2008,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",26,0.675851313,Northeast,2008,2008,"All Races,",Males,Ages 18-85+
+Fire/burn,21,0.545879906,Northeast,2008,2008,"All Races,",Males,Ages 18-85+
+Transportation- Related,8,0.20795425,Northeast,2008,2008,"All Races,",Males,Ages 18-85+
+Firearm,6871,63.66163254,South,2008,2008,"All Races,",Males,Ages 18-85+
+Suffocation,2188,20.27239878,South,2008,2008,"All Races,",Males,Ages 18-85+
+Poisoning,1138,10.54387103,South,2008,2008,"All Races,",Males,Ages 18-85+
+Cut/pierce,184,1.704808672,South,2008,2008,"All Races,",Males,Ages 18-85+
+Fall,116,1.074770685,South,2008,2008,"All Races,",Males,Ages 18-85+
+Drowning,92,0.852404336,South,2008,2008,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",52,0.481793755,South,2008,2008,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",50,0.463263226,South,2008,2008,"All Races,",Males,Ages 18-85+
+Fire/burn,41,0.379875845,South,2008,2008,"All Races,",Males,Ages 18-85+
+Unspecified,40,0.370610581,South,2008,2008,"All Races,",Males,Ages 18-85+
+Transportation- Related,21,0.194570555,South,2008,2008,"All Races,",Males,Ages 18-85+
+Firearm,3329,54.37765436,Midwest,2008,2008,"All Races,",Males,Ages 18-85+
+Suffocation,1543,25.20418164,Midwest,2008,2008,"All Races,",Males,Ages 18-85+
+Poisoning,811,13.2473048,Midwest,2008,2008,"All Races,",Males,Ages 18-85+
+Cut/pierce,122,1.992812806,Midwest,2008,2008,"All Races,",Males,Ages 18-85+
+Fall,93,1.519111402,Midwest,2008,2008,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",53,0.865730154,Midwest,2008,2008,"All Races,",Males,Ages 18-85+
+Drowning,47,0.767722966,Midwest,2008,2008,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",40,0.653381248,Midwest,2008,2008,"All Races,",Males,Ages 18-85+
+Transportation- Related,33,0.53903953,Midwest,2008,2008,"All Races,",Males,Ages 18-85+
+Unspecified,29,0.473701405,Midwest,2008,2008,"All Races,",Males,Ages 18-85+
+Fire/burn,22,0.359359686,Midwest,2008,2008,"All Races,",Males,Ages 18-85+
+Firearm,3744,53.76220563,West,2008,2008,"All Races,",Males,Ages 18-85+
+Suffocation,1682,24.15278576,West,2008,2008,"All Races,",Males,Ages 18-85+
+Poisoning,974,13.98621482,West,2008,2008,"All Races,",Males,Ages 18-85+
+Fall,174,2.498564044,West,2008,2008,"All Races,",Males,Ages 18-85+
+Cut/pierce,137,1.967260195,West,2008,2008,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",60,0.861573808,West,2008,2008,"All Races,",Males,Ages 18-85+
+Drowning,52,0.7466973,West,2008,2008,"All Races,",Males,Ages 18-85+
+Unspecified,43,0.617461229,West,2008,2008,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",41,0.588742102,West,2008,2008,"All Races,",Males,Ages 18-85+
+Transportation- Related,32,0.459506031,West,2008,2008,"All Races,",Males,Ages 18-85+
+Fire/burn,25,0.358989087,West,2008,2008,"All Races,",Males,Ages 18-85+
+Firearm,15962,56.3868871,United States,2009,2009,"All Races,",Males,Ages 18-85+
+Suffocation,6934,24.49484245,United States,2009,2009,"All Races,",Males,Ages 18-85+
+Poisoning,3413,12.05666243,United States,2009,2009,"All Races,",Males,Ages 18-85+
+Cut/pierce,553,1.953511375,United States,2009,2009,"All Races,",Males,Ages 18-85+
+Fall,476,1.681503462,United States,2009,2009,"All Races,",Males,Ages 18-85+
+Drowning,242,0.854882012,United States,2009,2009,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",220,0.777165466,United States,2009,2009,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",175,0.618199802,United States,2009,2009,"All Races,",Males,Ages 18-85+
+Unspecified,143,0.505157553,United States,2009,2009,"All Races,",Males,Ages 18-85+
+Fire/burn,106,0.374452452,United States,2009,2009,"All Races,",Males,Ages 18-85+
+Transportation- Related,83,0.293203335,United States,2009,2009,"All Races,",Males,Ages 18-85+
+Struck by or Against,1,0.00353257,United States,2009,2009,"All Races,",Males,Ages 18-85+
+Firearm,1662,42.60446039,Northeast,2009,2009,"All Races,",Males,Ages 18-85+
+Suffocation,1262,32.35067931,Northeast,2009,2009,"All Races,",Males,Ages 18-85+
+Poisoning,556,14.2527557,Northeast,2009,2009,"All Races,",Males,Ages 18-85+
+Fall,129,3.306844399,Northeast,2009,2009,"All Races,",Males,Ages 18-85+
+Cut/pierce,103,2.640348629,Northeast,2009,2009,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",55,1.409894899,Northeast,2009,2009,"All Races,",Males,Ages 18-85+
+Drowning,47,1.204819277,Northeast,2009,2009,"All Races,",Males,Ages 18-85+
+Unspecified,34,0.871571392,Northeast,2009,2009,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",29,0.743399128,Northeast,2009,2009,"All Races,",Males,Ages 18-85+
+Fire/burn,20,0.512689054,Northeast,2009,2009,"All Races,",Males,Ages 18-85+
+Transportation- Related,3,0.076903358,Northeast,2009,2009,"All Races,",Males,Ages 18-85+
+Struck by or Against,1,0.025634453,Northeast,2009,2009,"All Races,",Males,Ages 18-85+
+Firearm,7147,63.45556246,South,2009,2009,"All Races,",Males,Ages 18-85+
+Suffocation,2348,20.84702122,South,2009,2009,"All Races,",Males,Ages 18-85+
+Poisoning,1169,10.37911746,South,2009,2009,"All Races,",Males,Ages 18-85+
+Cut/pierce,179,1.589274616,South,2009,2009,"All Races,",Males,Ages 18-85+
+Fall,121,1.074314126,South,2009,2009,"All Races,",Males,Ages 18-85+
+Drowning,80,0.710290331,South,2009,2009,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",65,0.577110894,South,2009,2009,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",63,0.559353636,South,2009,2009,"All Races,",Males,Ages 18-85+
+Unspecified,43,0.381781053,South,2009,2009,"All Races,",Males,Ages 18-85+
+Fire/burn,28,0.248601616,South,2009,2009,"All Races,",Males,Ages 18-85+
+Transportation- Related,20,0.177572583,South,2009,2009,"All Races,",Males,Ages 18-85+
+Firearm,3220,54.49314605,Midwest,2009,2009,"All Races,",Males,Ages 18-85+
+Suffocation,1544,26.12963276,Midwest,2009,2009,"All Races,",Males,Ages 18-85+
+Poisoning,740,12.52326959,Midwest,2009,2009,"All Races,",Males,Ages 18-85+
+Cut/pierce,113,1.912337113,Midwest,2009,2009,"All Races,",Males,Ages 18-85+
+Fall,69,1.167710272,Midwest,2009,2009,"All Races,",Males,Ages 18-85+
+Drowning,55,0.930783551,Midwest,2009,2009,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",54,0.913860213,Midwest,2009,2009,"All Races,",Males,Ages 18-85+
+Fire/burn,32,0.541546793,Midwest,2009,2009,"All Races,",Males,Ages 18-85+
+Transportation- Related,29,0.490776781,Midwest,2009,2009,"All Races,",Males,Ages 18-85+
+Unspecified,28,0.473853444,Midwest,2009,2009,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",25,0.423083432,Midwest,2009,2009,"All Races,",Males,Ages 18-85+
+Firearm,3933,54.36074637,West,2009,2009,"All Races,",Males,Ages 18-85+
+Suffocation,1780,24.60262612,West,2009,2009,"All Races,",Males,Ages 18-85+
+Poisoning,948,13.10297167,West,2009,2009,"All Races,",Males,Ages 18-85+
+Cut/pierce,158,2.183828611,West,2009,2009,"All Races,",Males,Ages 18-85+
+Fall,157,2.170006911,West,2009,2009,"All Races,",Males,Ages 18-85+
+Drowning,60,0.829302004,West,2009,2009,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",56,0.774015204,West,2009,2009,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",48,0.663441603,West,2009,2009,"All Races,",Males,Ages 18-85+
+Unspecified,38,0.525224603,West,2009,2009,"All Races,",Males,Ages 18-85+
+Transportation- Related,31,0.428472702,West,2009,2009,"All Races,",Males,Ages 18-85+
+Fire/burn,26,0.359364202,West,2009,2009,"All Races,",Males,Ages 18-85+
+Firearm,16640,56.35710899,United States,2010,2010,"All Races,",Males,Ages 18-85+
+Suffocation,7230,24.48689291,United States,2010,2010,"All Races,",Males,Ages 18-85+
+Poisoning,3549,12.01991465,United States,2010,2010,"All Races,",Males,Ages 18-85+
+Fall,567,1.920341394,United States,2010,2010,"All Races,",Males,Ages 18-85+
+Cut/pierce,561,1.900020321,United States,2010,2010,"All Races,",Males,Ages 18-85+
+Drowning,248,0.839937682,United States,2010,2010,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",231,0.782361309,United States,2010,2010,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",178,0.602858498,United States,2010,2010,"All Races,",Males,Ages 18-85+
+Unspecified,147,0.497866287,United States,2010,2010,"All Races,",Males,Ages 18-85+
+Fire/burn,95,0.321750322,United States,2010,2010,"All Races,",Males,Ages 18-85+
+Transportation- Related,80,0.270947639,United States,2010,2010,"All Races,",Males,Ages 18-85+
+Firearm,1749,41.59334126,Northeast,2010,2010,"All Races,",Males,Ages 18-85+
+Suffocation,1428,33.95957194,Northeast,2010,2010,"All Races,",Males,Ages 18-85+
+Poisoning,543,12.91319857,Northeast,2010,2010,"All Races,",Males,Ages 18-85+
+Fall,144,3.424494649,Northeast,2010,2010,"All Races,",Males,Ages 18-85+
+Cut/pierce,119,2.829964328,Northeast,2010,2010,"All Races,",Males,Ages 18-85+
+Drowning,70,1.664684899,Northeast,2010,2010,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",65,1.545778835,Northeast,2010,2010,"All Races,",Males,Ages 18-85+
+Unspecified,33,0.784780024,Northeast,2010,2010,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",26,0.618311534,Northeast,2010,2010,"All Races,",Males,Ages 18-85+
+Fire/burn,18,0.428061831,Northeast,2010,2010,"All Races,",Males,Ages 18-85+
+Transportation- Related,10,0.237812128,Northeast,2010,2010,"All Races,",Males,Ages 18-85+
+Firearm,7386,64.49528467,South,2010,2010,"All Races,",Males,Ages 18-85+
+Suffocation,2337,20.40691582,South,2010,2010,"All Races,",Males,Ages 18-85+
+Poisoning,1152,10.05937827,South,2010,2010,"All Races,",Males,Ages 18-85+
+Cut/pierce,164,1.432064268,South,2010,2010,"All Races,",Males,Ages 18-85+
+Fall,136,1.187565491,South,2010,2010,"All Races,",Males,Ages 18-85+
+Drowning,72,0.628711142,South,2010,2010,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",54,0.471533357,South,2010,2010,"All Races,",Males,Ages 18-85+
+Unspecified,50,0.43660496,South,2010,2010,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",49,0.427872861,South,2010,2010,"All Races,",Males,Ages 18-85+
+Fire/burn,37,0.32308767,South,2010,2010,"All Races,",Males,Ages 18-85+
+Transportation- Related,15,0.130981488,South,2010,2010,"All Races,",Males,Ages 18-85+
+Firearm,3482,55.19099699,Midwest,2010,2010,"All Races,",Males,Ages 18-85+
+Suffocation,1597,25.31304486,Midwest,2010,2010,"All Races,",Males,Ages 18-85+
+Poisoning,794,12.58519575,Midwest,2010,2010,"All Races,",Males,Ages 18-85+
+Cut/pierce,124,1.965446188,Midwest,2010,2010,"All Races,",Males,Ages 18-85+
+Fall,92,1.458234269,Midwest,2010,2010,"All Races,",Males,Ages 18-85+
+Drowning,49,0.776668252,Midwest,2010,2010,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",46,0.729117134,Midwest,2010,2010,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",41,0.649865272,Midwest,2010,2010,"All Races,",Males,Ages 18-85+
+Unspecified,34,0.538912664,Midwest,2010,2010,"All Races,",Males,Ages 18-85+
+Transportation- Related,31,0.491361547,Midwest,2010,2010,"All Races,",Males,Ages 18-85+
+Fire/burn,19,0.301157077,Midwest,2010,2010,"All Races,",Males,Ages 18-85+
+Firearm,4023,53.21428571,West,2010,2010,"All Races,",Males,Ages 18-85+
+Suffocation,1868,24.70899471,West,2010,2010,"All Races,",Males,Ages 18-85+
+Poisoning,1060,14.02116402,West,2010,2010,"All Races,",Males,Ages 18-85+
+Fall,195,2.579365079,West,2010,2010,"All Races,",Males,Ages 18-85+
+Cut/pierce,154,2.037037037,West,2010,2010,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",66,0.873015873,West,2010,2010,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",62,0.82010582,West,2010,2010,"All Races,",Males,Ages 18-85+
+Drowning,57,0.753968254,West,2010,2010,"All Races,",Males,Ages 18-85+
+Unspecified,30,0.396825397,West,2010,2010,"All Races,",Males,Ages 18-85+
+Transportation- Related,24,0.317460317,West,2010,2010,"All Races,",Males,Ages 18-85+
+Fire/burn,21,0.277777778,West,2010,2010,"All Races,",Males,Ages 18-85+
+Firearm,16932,56.12941722,United States,2011,2011,"All Races,",Males,Ages 18-85+
+Suffocation,7550,25.02817742,United States,2011,2011,"All Races,",Males,Ages 18-85+
+Poisoning,3425,11.35384207,United States,2011,2011,"All Races,",Males,Ages 18-85+
+Fall,587,1.945899357,United States,2011,2011,"All Races,",Males,Ages 18-85+
+Cut/pierce,550,1.823244713,United States,2011,2011,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",321,1.064111914,United States,2011,2011,"All Races,",Males,Ages 18-85+
+Drowning,232,0.76907777,United States,2011,2011,"All Races,",Males,Ages 18-85+
+Unspecified,200,0.662998077,United States,2011,2011,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",140,0.464098654,United States,2011,2011,"All Races,",Males,Ages 18-85+
+Transportation- Related,115,0.381223894,United States,2011,2011,"All Races,",Males,Ages 18-85+
+Fire/burn,113,0.374593914,United States,2011,2011,"All Races,",Males,Ages 18-85+
+Struck by or Against,1,0.00331499,United States,2011,2011,"All Races,",Males,Ages 18-85+
+Firearm,1836,41.67990919,Northeast,2011,2011,"All Races,",Males,Ages 18-85+
+Suffocation,1451,32.93984109,Northeast,2011,2011,"All Races,",Males,Ages 18-85+
+Poisoning,588,13.34846765,Northeast,2011,2011,"All Races,",Males,Ages 18-85+
+Fall,137,3.110102157,Northeast,2011,2011,"All Races,",Males,Ages 18-85+
+Cut/pierce,126,2.860385925,Northeast,2011,2011,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",81,1.838819523,Northeast,2011,2011,"All Races,",Males,Ages 18-85+
+Drowning,66,1.498297389,Northeast,2011,2011,"All Races,",Males,Ages 18-85+
+Unspecified,41,0.930760499,Northeast,2011,2011,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",33,0.749148695,Northeast,2011,2011,"All Races,",Males,Ages 18-85+
+Fire/burn,25,0.56753689,Northeast,2011,2011,"All Races,",Males,Ages 18-85+
+Transportation- Related,20,0.454029512,Northeast,2011,2011,"All Races,",Males,Ages 18-85+
+Struck by or Against,1,0.022701476,Northeast,2011,2011,"All Races,",Males,Ages 18-85+
+Firearm,7496,63.82290336,South,2011,2011,"All Races,",Males,Ages 18-85+
+Suffocation,2452,20.87696892,South,2011,2011,"All Races,",Males,Ages 18-85+
+Poisoning,1126,9.587058323,South,2011,2011,"All Races,",Males,Ages 18-85+
+Cut/pierce,161,1.370796083,South,2011,2011,"All Races,",Males,Ages 18-85+
+Fall,149,1.268624947,South,2011,2011,"All Races,",Males,Ages 18-85+
+Drowning,84,0.715197957,South,2011,2011,"All Races,",Males,Ages 18-85+
+Unspecified,84,0.715197957,South,2011,2011,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",79,0.67262665,South,2011,2011,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",51,0.434227331,South,2011,2011,"All Races,",Males,Ages 18-85+
+Fire/burn,39,0.332056194,South,2011,2011,"All Races,",Males,Ages 18-85+
+Transportation- Related,24,0.204342273,South,2011,2011,"All Races,",Males,Ages 18-85+
+Firearm,3498,54.24096759,Midwest,2011,2011,"All Races,",Males,Ages 18-85+
+Suffocation,1778,27.57016592,Midwest,2011,2011,"All Races,",Males,Ages 18-85+
+Poisoning,751,11.64521631,Midwest,2011,2011,"All Races,",Males,Ages 18-85+
+Cut/pierce,111,1.721197085,Midwest,2011,2011,"All Races,",Males,Ages 18-85+
+Fall,93,1.442084044,Midwest,2011,2011,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",58,0.899364243,Midwest,2011,2011,"All Races,",Males,Ages 18-85+
+Drowning,38,0.589238642,Midwest,2011,2011,"All Races,",Males,Ages 18-85+
+Unspecified,36,0.558226082,Midwest,2011,2011,"All Races,",Males,Ages 18-85+
+Transportation- Related,33,0.511707241,Midwest,2011,2011,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",28,0.434175841,Midwest,2011,2011,"All Races,",Males,Ages 18-85+
+Fire/burn,25,0.387657001,Midwest,2011,2011,"All Races,",Males,Ages 18-85+
+Firearm,4102,54.20906568,West,2011,2011,"All Races,",Males,Ages 18-85+
+Suffocation,1869,24.69935245,West,2011,2011,"All Races,",Males,Ages 18-85+
+Poisoning,960,12.68666579,West,2011,2011,"All Races,",Males,Ages 18-85+
+Fall,208,2.748777587,West,2011,2011,"All Races,",Males,Ages 18-85+
+Cut/pierce,152,2.008722083,West,2011,2011,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",103,1.361173517,West,2011,2011,"All Races,",Males,Ages 18-85+
+Drowning,44,0.581472182,West,2011,2011,"All Races,",Males,Ages 18-85+
+Unspecified,39,0.515395798,West,2011,2011,"All Races,",Males,Ages 18-85+
+Transportation- Related,38,0.502180521,West,2011,2011,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",28,0.370027752,West,2011,2011,"All Races,",Males,Ages 18-85+
+Fire/burn,24,0.317166645,West,2011,2011,"All Races,",Males,Ages 18-85+
+Firearm,17519,56.631647,United States,2012,2012,"All Races,",Males,Ages 18-85+
+Suffocation,7610,24.59996767,United States,2012,2012,"All Races,",Males,Ages 18-85+
+Poisoning,3520,11.37869727,United States,2012,2012,"All Races,",Males,Ages 18-85+
+Fall,685,2.214320349,United States,2012,2012,"All Races,",Males,Ages 18-85+
+Cut/pierce,594,1.920155164,United States,2012,2012,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",383,1.238079845,United States,2012,2012,"All Races,",Males,Ages 18-85+
+Drowning,267,0.863100048,United States,2012,2012,"All Races,",Males,Ages 18-85+
+Transportation- Related,122,0.394375303,United States,2012,2012,"All Races,",Males,Ages 18-85+
+Fire/burn,106,0.342653952,United States,2012,2012,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",93,0.300630354,United States,2012,2012,"All Races,",Males,Ages 18-85+
+Unspecified,36,0.11637304,United States,2012,2012,"All Races,",Males,Ages 18-85+
+Firearm,1809,42.32569022,Northeast,2012,2012,"All Races,",Males,Ages 18-85+
+Suffocation,1391,32.54562471,Northeast,2012,2012,"All Races,",Males,Ages 18-85+
+Poisoning,572,13.38324754,Northeast,2012,2012,"All Races,",Males,Ages 18-85+
+Fall,177,4.141319607,Northeast,2012,2012,"All Races,",Males,Ages 18-85+
+Cut/pierce,123,2.877866168,Northeast,2012,2012,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",81,1.895180159,Northeast,2012,2012,"All Races,",Males,Ages 18-85+
+Drowning,58,1.357042583,Northeast,2012,2012,"All Races,",Males,Ages 18-85+
+Transportation- Related,24,0.561534862,Northeast,2012,2012,"All Races,",Males,Ages 18-85+
+Fire/burn,20,0.467945718,Northeast,2012,2012,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",16,0.374356575,Northeast,2012,2012,"All Races,",Males,Ages 18-85+
+Unspecified,3,0.070191858,Northeast,2012,2012,"All Races,",Males,Ages 18-85+
+Firearm,7652,63.66056572,South,2012,2012,"All Races,",Males,Ages 18-85+
+Suffocation,2504,20.83194676,South,2012,2012,"All Races,",Males,Ages 18-85+
+Poisoning,1185,9.858569052,South,2012,2012,"All Races,",Males,Ages 18-85+
+Cut/pierce,192,1.59733777,South,2012,2012,"All Races,",Males,Ages 18-85+
+Fall,165,1.372712146,South,2012,2012,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",101,0.840266223,South,2012,2012,"All Races,",Males,Ages 18-85+
+Drowning,98,0.81530782,South,2012,2012,"All Races,",Males,Ages 18-85+
+Fire/burn,38,0.316139767,South,2012,2012,"All Races,",Males,Ages 18-85+
+Transportation- Related,35,0.291181364,South,2012,2012,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",29,0.241264559,South,2012,2012,"All Races,",Males,Ages 18-85+
+Unspecified,21,0.174708819,South,2012,2012,"All Races,",Males,Ages 18-85+
+Firearm,3765,56.05180884,Midwest,2012,2012,"All Races,",Males,Ages 18-85+
+Suffocation,1760,26.20217359,Midwest,2012,2012,"All Races,",Males,Ages 18-85+
+Poisoning,758,11.28479976,Midwest,2012,2012,"All Races,",Males,Ages 18-85+
+Cut/pierce,113,1.682298645,Midwest,2012,2012,"All Races,",Males,Ages 18-85+
+Fall,96,1.429209469,Midwest,2012,2012,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",84,1.250558285,Midwest,2012,2012,"All Races,",Males,Ages 18-85+
+Drowning,59,0.878368319,Midwest,2012,2012,"All Races,",Males,Ages 18-85+
+Transportation- Related,27,0.401965163,Midwest,2012,2012,"All Races,",Males,Ages 18-85+
+Fire/burn,26,0.387077564,Midwest,2012,2012,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",23,0.342414768,Midwest,2012,2012,"All Races,",Males,Ages 18-85+
+Unspecified,6,0.089325592,Midwest,2012,2012,"All Races,",Males,Ages 18-85+
+Firearm,4293,54.17718324,West,2012,2012,"All Races,",Males,Ages 18-85+
+Suffocation,1955,24.67188289,West,2012,2012,"All Races,",Males,Ages 18-85+
+Poisoning,1005,12.68298839,West,2012,2012,"All Races,",Males,Ages 18-85+
+Fall,247,3.117112569,West,2012,2012,"All Races,",Males,Ages 18-85+
+Cut/pierce,166,2.094901565,West,2012,2012,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",117,1.476527007,West,2012,2012,"All Races,",Males,Ages 18-85+
+Drowning,52,0.656234225,West,2012,2012,"All Races,",Males,Ages 18-85+
+Transportation- Related,36,0.454316002,West,2012,2012,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",25,0.315497224,West,2012,2012,"All Races,",Males,Ages 18-85+
+Fire/burn,22,0.277637557,West,2012,2012,"All Races,",Males,Ages 18-85+
+Unspecified,6,0.075719334,West,2012,2012,"All Races,",Males,Ages 18-85+
+Firearm,17812,57.14469041,United States,2013,2013,"All Races,",Males,Ages 18-85+
+Suffocation,7518,24.11934552,United States,2013,2013,"All Races,",Males,Ages 18-85+
+Poisoning,3449,11.06512672,United States,2013,2013,"All Races,",Males,Ages 18-85+
+Fall,697,2.236124479,United States,2013,2013,"All Races,",Males,Ages 18-85+
+Cut/pierce,616,1.976259224,United States,2013,2013,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",392,1.257619506,United States,2013,2013,"All Races,",Males,Ages 18-85+
+Drowning,262,0.840551813,United States,2013,2013,"All Races,",Males,Ages 18-85+
+Transportation- Related,139,0.445941611,United States,2013,2013,"All Races,",Males,Ages 18-85+
+Fire/burn,122,0.391401989,United States,2013,2013,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",112,0.359319859,United States,2013,2013,"All Races,",Males,Ages 18-85+
+Unspecified,51,0.163618864,United States,2013,2013,"All Races,",Males,Ages 18-85+
+Firearm,1833,41.82067077,Northeast,2013,2013,"All Races,",Males,Ages 18-85+
+Suffocation,1422,32.44353183,Northeast,2013,2013,"All Races,",Males,Ages 18-85+
+Poisoning,611,13.94022359,Northeast,2013,2013,"All Races,",Males,Ages 18-85+
+Fall,165,3.764544832,Northeast,2013,2013,"All Races,",Males,Ages 18-85+
+Cut/pierce,115,2.623773671,Northeast,2013,2013,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",105,2.395619439,Northeast,2013,2013,"All Races,",Males,Ages 18-85+
+Drowning,59,1.34610997,Northeast,2013,2013,"All Races,",Males,Ages 18-85+
+Fire/burn,32,0.730093543,Northeast,2013,2013,"All Races,",Males,Ages 18-85+
+Transportation- Related,20,0.456308465,Northeast,2013,2013,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",13,0.296600502,Northeast,2013,2013,"All Races,",Males,Ages 18-85+
+Unspecified,8,0.182523386,Northeast,2013,2013,"All Races,",Males,Ages 18-85+
+Firearm,7861,64.89721787,South,2013,2013,"All Races,",Males,Ages 18-85+
+Suffocation,2442,20.16015851,South,2013,2013,"All Races,",Males,Ages 18-85+
+Poisoning,1056,8.717906382,South,2013,2013,"All Races,",Males,Ages 18-85+
+Cut/pierce,210,1.733674565,South,2013,2013,"All Races,",Males,Ages 18-85+
+Fall,185,1.527284735,South,2013,2013,"All Races,",Males,Ages 18-85+
+Drowning,100,0.825559316,South,2013,2013,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",95,0.784281351,South,2013,2013,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",54,0.445802031,South,2013,2013,"All Races,",Males,Ages 18-85+
+Fire/burn,45,0.371501692,South,2013,2013,"All Races,",Males,Ages 18-85+
+Transportation- Related,39,0.321968133,South,2013,2013,"All Races,",Males,Ages 18-85+
+Unspecified,26,0.214645422,South,2013,2013,"All Races,",Males,Ages 18-85+
+Firearm,3905,56.92419825,Midwest,2013,2013,"All Races,",Males,Ages 18-85+
+Suffocation,1731,25.23323615,Midwest,2013,2013,"All Races,",Males,Ages 18-85+
+Poisoning,765,11.1516035,Midwest,2013,2013,"All Races,",Males,Ages 18-85+
+Cut/pierce,128,1.865889213,Midwest,2013,2013,"All Races,",Males,Ages 18-85+
+Fall,114,1.66180758,Midwest,2013,2013,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",72,1.049562682,Midwest,2013,2013,"All Races,",Males,Ages 18-85+
+Drowning,52,0.758017493,Midwest,2013,2013,"All Races,",Males,Ages 18-85+
+Transportation- Related,42,0.612244898,Midwest,2013,2013,"All Races,",Males,Ages 18-85+
+Fire/burn,19,0.27696793,Midwest,2013,2013,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",19,0.27696793,Midwest,2013,2013,"All Races,",Males,Ages 18-85+
+Unspecified,13,0.189504373,Midwest,2013,2013,"All Races,",Males,Ages 18-85+
+Firearm,4213,53.91604812,West,2013,2013,"All Races,",Males,Ages 18-85+
+Suffocation,1923,24.60967494,West,2013,2013,"All Races,",Males,Ages 18-85+
+Poisoning,1017,13.0151011,West,2013,2013,"All Races,",Males,Ages 18-85+
+Fall,233,2.981827489,West,2013,2013,"All Races,",Males,Ages 18-85+
+Cut/pierce,163,2.085999488,West,2013,2013,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",120,1.535705145,West,2013,2013,"All Races,",Males,Ages 18-85+
+Drowning,51,0.652674686,West,2013,2013,"All Races,",Males,Ages 18-85+
+Transportation- Related,38,0.486306629,West,2013,2013,"All Races,",Males,Ages 18-85+
+Fire/burn,26,0.332736115,West,2013,2013,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",26,0.332736115,West,2013,2013,"All Races,",Males,Ages 18-85+
+Unspecified,4,0.051190171,West,2013,2013,"All Races,",Males,Ages 18-85+
+Firearm,17933,55.6614315,United States,2014,2014,"All Races,",Males,Ages 18-85+
+Suffocation,8442,26.20274381,United States,2014,2014,"All Races,",Males,Ages 18-85+
+Poisoning,3494,10.84486933,United States,2014,2014,"All Races,",Males,Ages 18-85+
+Fall,711,2.206840896,United States,2014,2014,"All Races,",Males,Ages 18-85+
+Cut/pierce,615,1.908870818,United States,2014,2014,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",364,1.129803216,United States,2014,2014,"All Races,",Males,Ages 18-85+
+Drowning,229,0.710782792,United States,2014,2014,"All Races,",Males,Ages 18-85+
+Transportation- Related,125,0.387981873,United States,2014,2014,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",121,0.375566454,United States,2014,2014,"All Races,",Males,Ages 18-85+
+Fire/burn,119,0.369358744,United States,2014,2014,"All Races,",Males,Ages 18-85+
+Unspecified,64,0.198646719,United States,2014,2014,"All Races,",Males,Ages 18-85+
+Struck by or Against,1,0.003103855,United States,2014,2014,"All Races,",Males,Ages 18-85+
+Firearm,1894,42.25792057,Northeast,2014,2014,"All Races,",Males,Ages 18-85+
+Suffocation,1518,33.86880857,Northeast,2014,2014,"All Races,",Males,Ages 18-85+
+Poisoning,540,12.04819277,Northeast,2014,2014,"All Races,",Males,Ages 18-85+
+Fall,178,3.971441321,Northeast,2014,2014,"All Races,",Males,Ages 18-85+
+Cut/pierce,110,2.45426149,Northeast,2014,2014,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",85,1.896474788,Northeast,2014,2014,"All Races,",Males,Ages 18-85+
+Drowning,64,1.427933958,Northeast,2014,2014,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",26,0.58009817,Northeast,2014,2014,"All Races,",Males,Ages 18-85+
+Fire/burn,25,0.557786702,Northeast,2014,2014,"All Races,",Males,Ages 18-85+
+Transportation- Related,24,0.535475234,Northeast,2014,2014,"All Races,",Males,Ages 18-85+
+Unspecified,18,0.401606426,Northeast,2014,2014,"All Races,",Males,Ages 18-85+
+Firearm,7889,62.88059939,South,2014,2014,"All Races,",Males,Ages 18-85+
+Suffocation,2811,22.40554758,South,2014,2014,"All Races,",Males,Ages 18-85+
+Poisoning,1162,9.261916149,South,2014,2014,"All Races,",Males,Ages 18-85+
+Cut/pierce,204,1.62601626,South,2014,2014,"All Races,",Males,Ages 18-85+
+Fall,173,1.378925554,South,2014,2014,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",83,0.661565439,South,2014,2014,"All Races,",Males,Ages 18-85+
+Drowning,71,0.565917424,South,2014,2014,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",43,0.342738722,South,2014,2014,"All Races,",Males,Ages 18-85+
+Fire/burn,41,0.326797386,South,2014,2014,"All Races,",Males,Ages 18-85+
+Transportation- Related,40,0.318826718,South,2014,2014,"All Races,",Males,Ages 18-85+
+Unspecified,29,0.23114937,South,2014,2014,"All Races,",Males,Ages 18-85+
+Firearm,3813,55.32501451,Midwest,2014,2014,"All Races,",Males,Ages 18-85+
+Suffocation,1881,27.29251306,Midwest,2014,2014,"All Races,",Males,Ages 18-85+
+Poisoning,766,11.11433546,Midwest,2014,2014,"All Races,",Males,Ages 18-85+
+Fall,110,1.596053395,Midwest,2014,2014,"All Races,",Males,Ages 18-85+
+Cut/pierce,109,1.581543819,Midwest,2014,2014,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",82,1.189785258,Midwest,2014,2014,"All Races,",Males,Ages 18-85+
+Drowning,50,0.725478816,Midwest,2014,2014,"All Races,",Males,Ages 18-85+
+Transportation- Related,29,0.420777713,Midwest,2014,2014,"All Races,",Males,Ages 18-85+
+Fire/burn,23,0.333720255,Midwest,2014,2014,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",17,0.246662797,Midwest,2014,2014,"All Races,",Males,Ages 18-85+
+Unspecified,12,0.174114916,Midwest,2014,2014,"All Races,",Males,Ages 18-85+
+Firearm,4337,52.26560617,West,2014,2014,"All Races,",Males,Ages 18-85+
+Suffocation,2232,26.89804772,West,2014,2014,"All Races,",Males,Ages 18-85+
+Poisoning,1026,12.36442516,West,2014,2014,"All Races,",Males,Ages 18-85+
+Fall,250,3.012774162,West,2014,2014,"All Races,",Males,Ages 18-85+
+Cut/pierce,192,2.313810557,West,2014,2014,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",114,1.373825018,West,2014,2014,"All Races,",Males,Ages 18-85+
+Drowning,44,0.530248253,West,2014,2014,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",35,0.421788383,West,2014,2014,"All Races,",Males,Ages 18-85+
+Transportation- Related,32,0.385635093,West,2014,2014,"All Races,",Males,Ages 18-85+
+Fire/burn,30,0.361532899,West,2014,2014,"All Races,",Males,Ages 18-85+
+Unspecified,5,0.060255483,West,2014,2014,"All Races,",Males,Ages 18-85+
+Struck by or Against,1,0.012051097,West,2014,2014,"All Races,",Males,Ages 18-85+
+Firearm,18427,55.7954339,United States,2015,2015,"All Races,",Males,Ages 18-85+
+Suffocation,8731,26.43674681,United States,2015,2015,"All Races,",Males,Ages 18-85+
+Poisoning,3376,10.22224914,United States,2015,2015,"All Races,",Males,Ages 18-85+
+Fall,709,2.146793435,United States,2015,2015,"All Races,",Males,Ages 18-85+
+Cut/pierce,606,1.834917943,United States,2015,2015,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",435,1.317144068,United States,2015,2015,"All Races,",Males,Ages 18-85+
+Drowning,308,0.932598559,United States,2015,2015,"All Races,",Males,Ages 18-85+
+Fire/burn,129,0.390601344,United States,2015,2015,"All Races,",Males,Ages 18-85+
+Transportation- Related,126,0.381517592,United States,2015,2015,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",113,0.342154666,United States,2015,2015,"All Races,",Males,Ages 18-85+
+Unspecified,64,0.193786713,United States,2015,2015,"All Races,",Males,Ages 18-85+
+Struck by or Against,2,0.006055835,United States,2015,2015,"All Races,",Males,Ages 18-85+
+Firearm,1841,41.12128658,Northeast,2015,2015,"All Races,",Males,Ages 18-85+
+Suffocation,1502,33.54925173,Northeast,2015,2015,"All Races,",Males,Ages 18-85+
+Poisoning,573,12.79874916,Northeast,2015,2015,"All Races,",Males,Ages 18-85+
+Fall,185,4.132231405,Northeast,2015,2015,"All Races,",Males,Ages 18-85+
+Cut/pierce,135,3.015412106,Northeast,2015,2015,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",97,2.166629439,Northeast,2015,2015,"All Races,",Males,Ages 18-85+
+Drowning,82,1.83158365,Northeast,2015,2015,"All Races,",Males,Ages 18-85+
+Transportation- Related,17,0.379718562,Northeast,2015,2015,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",17,0.379718562,Northeast,2015,2015,"All Races,",Males,Ages 18-85+
+Fire/burn,16,0.357382176,Northeast,2015,2015,"All Races,",Males,Ages 18-85+
+Unspecified,12,0.268036632,Northeast,2015,2015,"All Races,",Males,Ages 18-85+
+Firearm,8269,63.24282983,South,2015,2015,"All Races,",Males,Ages 18-85+
+Suffocation,2957,22.61567878,South,2015,2015,"All Races,",Males,Ages 18-85+
+Poisoning,1094,8.367112811,South,2015,2015,"All Races,",Males,Ages 18-85+
+Cut/pierce,193,1.476099426,South,2015,2015,"All Races,",Males,Ages 18-85+
+Fall,187,1.430210325,South,2015,2015,"All Races,",Males,Ages 18-85+
+Drowning,119,0.910133843,South,2015,2015,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",114,0.871892925,South,2015,2015,"All Races,",Males,Ages 18-85+
+Fire/burn,44,0.336520076,South,2015,2015,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",43,0.328871893,South,2015,2015,"All Races,",Males,Ages 18-85+
+Transportation- Related,30,0.229445507,South,2015,2015,"All Races,",Males,Ages 18-85+
+Unspecified,24,0.183556405,South,2015,2015,"All Races,",Males,Ages 18-85+
+Struck by or Against,1,0.007648184,South,2015,2015,"All Races,",Males,Ages 18-85+
+Firearm,3935,54.73640284,Midwest,2015,2015,"All Races,",Males,Ages 18-85+
+Suffocation,2003,27.86201141,Midwest,2015,2015,"All Races,",Males,Ages 18-85+
+Poisoning,780,10.84990958,Midwest,2015,2015,"All Races,",Males,Ages 18-85+
+Cut/pierce,121,1.683127,Midwest,2015,2015,"All Races,",Males,Ages 18-85+
+Fall,98,1.363193768,Midwest,2015,2015,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",88,1.224092363,Midwest,2015,2015,"All Races,",Males,Ages 18-85+
+Drowning,52,0.723327306,Midwest,2015,2015,"All Races,",Males,Ages 18-85+
+Transportation- Related,38,0.528585339,Midwest,2015,2015,"All Races,",Males,Ages 18-85+
+Fire/burn,34,0.472944777,Midwest,2015,2015,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",23,0.319933231,Midwest,2015,2015,"All Races,",Males,Ages 18-85+
+Unspecified,17,0.236472388,Midwest,2015,2015,"All Races,",Males,Ages 18-85+
+Firearm,4382,52.89076645,West,2015,2015,"All Races,",Males,Ages 18-85+
+Suffocation,2269,27.38684369,West,2015,2015,"All Races,",Males,Ages 18-85+
+Poisoning,929,11.21303561,West,2015,2015,"All Races,",Males,Ages 18-85+
+Fall,239,2.884731442,West,2015,2015,"All Races,",Males,Ages 18-85+
+Cut/pierce,157,1.894990947,West,2015,2015,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",136,1.641520821,West,2015,2015,"All Races,",Males,Ages 18-85+
+Drowning,55,0.663850332,West,2015,2015,"All Races,",Males,Ages 18-85+
+Transportation- Related,41,0.494870247,West,2015,2015,"All Races,",Males,Ages 18-85+
+Fire/burn,35,0.422450211,West,2015,2015,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",30,0.362100181,West,2015,2015,"All Races,",Males,Ages 18-85+
+Unspecified,11,0.132770066,West,2015,2015,"All Races,",Males,Ages 18-85+
+Struck by or Against,1,0.012070006,West,2015,2015,"All Races,",Males,Ages 18-85+
+Firearm,19125,56.77769861,United States,2016,2016,"All Races,",Males,Ages 18-85+
+Suffocation,8609,25.55812849,United States,2016,2016,"All Races,",Males,Ages 18-85+
+Poisoning,3303,9.805842537,United States,2016,2016,"All Races,",Males,Ages 18-85+
+Fall,796,2.36313977,United States,2016,2016,"All Races,",Males,Ages 18-85+
+Cut/pierce,710,2.107825674,United States,2016,2016,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",412,1.223132645,United States,2016,2016,"All Races,",Males,Ages 18-85+
+Drowning,292,0.866880418,United States,2016,2016,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",131,0.388908681,United States,2016,2016,"All Races,",Males,Ages 18-85+
+Fire/burn,129,0.382971144,United States,2016,2016,"All Races,",Males,Ages 18-85+
+Transportation- Related,113,0.335470847,United States,2016,2016,"All Races,",Males,Ages 18-85+
+Unspecified,63,0.187032419,United States,2016,2016,"All Races,",Males,Ages 18-85+
+Struck by or Against,1,0.002968769,United States,2016,2016,"All Races,",Males,Ages 18-85+
+Firearm,1972,43.68630926,Northeast,2016,2016,"All Races,",Males,Ages 18-85+
+Suffocation,1417,31.39122729,Northeast,2016,2016,"All Races,",Males,Ages 18-85+
+Poisoning,564,12.49446167,Northeast,2016,2016,"All Races,",Males,Ages 18-85+
+Fall,199,4.408506868,Northeast,2016,2016,"All Races,",Males,Ages 18-85+
+Cut/pierce,127,2.813469207,Northeast,2016,2016,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",90,1.993797076,Northeast,2016,2016,"All Races,",Males,Ages 18-85+
+Drowning,68,1.506424457,Northeast,2016,2016,"All Races,",Males,Ages 18-85+
+Fire/burn,26,0.575985822,Northeast,2016,2016,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",26,0.575985822,Northeast,2016,2016,"All Races,",Males,Ages 18-85+
+Unspecified,13,0.287992911,Northeast,2016,2016,"All Races,",Males,Ages 18-85+
+Transportation- Related,11,0.243686309,Northeast,2016,2016,"All Races,",Males,Ages 18-85+
+Struck by or Against,1,0.022153301,Northeast,2016,2016,"All Races,",Males,Ages 18-85+
+Firearm,8399,63.92419514,South,2016,2016,"All Races,",Males,Ages 18-85+
+Suffocation,2902,22.08691681,South,2016,2016,"All Races,",Males,Ages 18-85+
+Poisoning,1039,7.907755537,South,2016,2016,"All Races,",Males,Ages 18-85+
+Cut/pierce,223,1.697237233,South,2016,2016,"All Races,",Males,Ages 18-85+
+Fall,208,1.583073293,South,2016,2016,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",110,0.837202222,South,2016,2016,"All Races,",Males,Ages 18-85+
+Drowning,100,0.761092929,South,2016,2016,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",52,0.395768323,South,2016,2016,"All Races,",Males,Ages 18-85+
+Fire/burn,45,0.342491818,South,2016,2016,"All Races,",Males,Ages 18-85+
+Transportation- Related,39,0.296826242,South,2016,2016,"All Races,",Males,Ages 18-85+
+Unspecified,22,0.167440444,South,2016,2016,"All Races,",Males,Ages 18-85+
+Firearm,4218,56.68592931,Midwest,2016,2016,"All Races,",Males,Ages 18-85+
+Suffocation,1965,26.4077409,Midwest,2016,2016,"All Races,",Males,Ages 18-85+
+Poisoning,761,10.22712001,Midwest,2016,2016,"All Races,",Males,Ages 18-85+
+Cut/pierce,162,2.17712673,Midwest,2016,2016,"All Races,",Males,Ages 18-85+
+Fall,103,1.384222551,Midwest,2016,2016,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",72,0.96761188,Midwest,2016,2016,"All Races,",Males,Ages 18-85+
+Drowning,60,0.806343233,Midwest,2016,2016,"All Races,",Males,Ages 18-85+
+Fire/burn,31,0.416610671,Midwest,2016,2016,"All Races,",Males,Ages 18-85+
+Transportation- Related,28,0.376293509,Midwest,2016,2016,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",21,0.282220132,Midwest,2016,2016,"All Races,",Males,Ages 18-85+
+Unspecified,20,0.268781078,Midwest,2016,2016,"All Races,",Males,Ages 18-85+
+Firearm,4536,52.80558789,West,2016,2016,"All Races,",Males,Ages 18-85+
+Suffocation,2325,27.06635623,West,2016,2016,"All Races,",Males,Ages 18-85+
+Poisoning,939,10.93131548,West,2016,2016,"All Races,",Males,Ages 18-85+
+Fall,286,3.329452852,West,2016,2016,"All Races,",Males,Ages 18-85+
+Cut/pierce,198,2.305005821,West,2016,2016,"All Races,",Males,Ages 18-85+
+"Other Spec., classifiable",140,1.629802095,West,2016,2016,"All Races,",Males,Ages 18-85+
+Drowning,64,0.745052386,West,2016,2016,"All Races,",Males,Ages 18-85+
+Transportation- Related,35,0.407450524,West,2016,2016,"All Races,",Males,Ages 18-85+
+"Other Spec., NEC",32,0.372526193,West,2016,2016,"All Races,",Males,Ages 18-85+
+Fire/burn,27,0.314318976,West,2016,2016,"All Races,",Males,Ages 18-85+
+Unspecified,8,0.093131548,West,2016,2016,"All Races,",Males,Ages 18-85+
