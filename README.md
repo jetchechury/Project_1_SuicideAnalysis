@@ -1,9 +1,9 @@
 # Project 1 - Analysis on Suicide in the US from 2005 to 2016
 
 ## Team Members
-Ellise Carpenter
-Jessica Etchechury
-Escoffrey Thomas
+Ellise Carpenter,
+Jessica Etchechury,
+Escoffrey Thomas,
 Yan Xu
 
 
